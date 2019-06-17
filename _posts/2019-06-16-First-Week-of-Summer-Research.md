@@ -15,7 +15,7 @@ This summer, I'm a part of the [Princeton Environmental Institute's](https://env
 
 Typical days look like a morning (9-12) in a lab identifying insects we collected in our traps, analyzing camera-trap videos, organizing and inventorying our supplies, and developing software for the problems we're trying to solve. I have an hour long linch break where I've been running back to my dorm building and quickly pan-frying some produce and brewing some afternoon coffee. Then, in the afternoon (1-5ish) we as a team travel around to different farms to collect and replace insect traps, repair broken sensors, interview the farmers, weigh and measure their crops, and, my job, to fly our drone. We spray off our shoes with dilute (low concentration) bleach between farms so we're not transferring bacteria and other micro-organisms between the farms. A few micro-organisms could upset the whole micro-ecology of a farm system and destroy vegetation, so we try to be very careful about introducing any foreign species.
 
-## Evenings
+## 📖 Evenings
 
 Evenings have been pretty chill so far. I've mostly been reading about calculating photosynthesis rates, learning [Python](https://www.python.org/), and thinking hard about the research angle I want to approach our data from. I have a beautiful dorm room with a desk that I put in front of a big window, so I've been spending a lot of time at the desk enjoying the fresh air and my coffee maker.
 
@@ -23,6 +23,6 @@ I started reading Bonhoeffer's "Life Together" and Butterfield's "The Gospel Com
 
 On Saturday I made it over (East) to the beach with a friend. It was crazy windy so we were basically just sandblasted for a couple hours before deciding to head back to campus. Fun though! It's weird living in a place where the beach is only an hour away. During the semester the academics were so brutal that I barely left the campus and never thought about taking a road trip, but now in the summer it's wonderful to have a bit of accessibility to the beach!
 
-## Closing
+## 👋 Closing
 
 Thank you for checking in and reading about my week! May the peace of our Lord Jesus Christ be with you always.
