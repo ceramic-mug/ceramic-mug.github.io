@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "But we have this treasure in jars of clay [ceramic mugs], to show that the surpassing power belongs to God and not to us." - 2 Corinthians 4:7
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  ceramic-mug
 instagram_username: man_of_the_east
 facebook_username: josh.eastman.31
