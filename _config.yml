@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  ceramic-mug
 instagram_username: man_of_the_east
+facebook_username: josh.eastman.31
 
 # Build settings
 markdown: kramdown
@@ -29,6 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - emoji_for_jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
