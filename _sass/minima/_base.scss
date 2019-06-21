@@ -38,8 +38,8 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+  text-align: justify;
 }
-
 
 
 /**
@@ -129,11 +129,14 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
+  color: Black;
+  // background-color: #eee;
+  // border-left: 3px dotted #000;
+  padding-left: $spacing-unit * 2;
+  padding-right: $spacing-unit *2;
+  text-align: justify;
+  @include relative-font-size(0.9);
+  font-family: times;
   font-style: italic;
 
   > :last-child {
@@ -151,7 +154,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #eee;
 }
 
 code {
