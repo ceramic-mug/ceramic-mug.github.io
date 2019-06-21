@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ceramic-mug
 instagram_username: man_of_the_east
 facebook_username: josh.eastman.31
-
+show_excerpts: FALSE
 # Build settings
 markdown: kramdown
 theme: minima
