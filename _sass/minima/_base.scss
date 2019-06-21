@@ -38,7 +38,7 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
-  text-align: justify;
+  // text-align: justify;
 }
 
 
@@ -131,9 +131,9 @@ a {
 blockquote {
   color: Black;
   // background-color: #eee;
-  // border-left: 3px dotted #000;
+  border-left: 3px dotted #000;
   padding-left: $spacing-unit * 2;
-  padding-right: $spacing-unit *2;
+  // padding-right: $spacing-unit *2;
   text-align: justify;
   @include relative-font-size(0.9);
   font-family: times;
