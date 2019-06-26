@@ -1,5 +1,5 @@
 ---
-title: 🥾 Weekly Update
+title: 🌿 Weekly Update
 layout: post
 category: life
 ---
