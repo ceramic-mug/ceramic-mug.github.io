@@ -3,7 +3,7 @@
  */
 .site-header {
   // border-top: 1px solid $grey-color-dark;
-  border-bottom: 2px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -17,10 +17,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  padding-left: 1rem;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
   }
 }
 
