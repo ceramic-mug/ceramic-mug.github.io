@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # emojis
 gem "emoji_for_jekyll"
+
+# jupyter notebook
+gem "jekyll-jupyter-notebook"
