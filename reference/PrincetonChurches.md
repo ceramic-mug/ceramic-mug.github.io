@@ -14,7 +14,7 @@ This is a list of local Princeton-area Churches as of January, 2021. I hope Chri
 
 The Churches listed are in no particular order.
 
-TODO: add a Google Maps map of local churches
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZOjYrGSNTMPXWz7A6OHOmp_LMjXP9iJ3" width="640" height="480"></iframe>
 
 # Within Mercer County and Plainsboro
 
