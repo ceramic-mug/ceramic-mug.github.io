@@ -1,5 +1,5 @@
 ---
-title: ⛪️ Local Princeton, NJ area Churches
+title: ⛪️ Local Churches: Princeton, NJ
 layout: page
 exclude: true
 ---
