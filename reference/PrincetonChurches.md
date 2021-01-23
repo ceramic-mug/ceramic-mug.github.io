@@ -1,8 +1,10 @@
 ---
 title: ⛪️ Local Churches around Princeton University
-layout: page
+layout: standalone
 exclude: true
 ---
+
+*To add a church to this list, please contact Joshua Eastman at [jeastman@princeton.edu](mailto:jeastman@princeton.edu)*
 
 - [In person within Mercer and Plainsboro](#within-mercer-county-and-plainsboro)
 - [Ouside Mercer and Plainsboro](#outside-of-mercer-county-and-plainsboro)
