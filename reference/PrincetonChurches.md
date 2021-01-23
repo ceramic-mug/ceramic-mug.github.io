@@ -62,6 +62,13 @@ time I arrive in Princeton until the end of the semester
 - Contact: Lewis Stroebel
 - Email: [lewisas@princeton.edu](mailto:lewisas@princeton.edu)
 
+## ⛪️ Nassau Christian Center
+
+- Address: 26 Nassau Street, Princeton, NJ 08542
+- Website: [nassauchristian.org](https://nassauchristian.org)
+- Contact: Fisayo Adeyina [Christian Union NOVA]
+- Email: [oadeyina@princeton.edu](oadeyina@princeton.edu)
+
 # Outside of Mercer County and Plainsboro
 
 Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within Mercer and Plainsboro county boundaries and online services.
@@ -81,7 +88,7 @@ Meeting in person once a month, but outside Mercer County. Offering online servi
 
 - Address: 260 Elm Ave, Teaneck, NJ 07666
 - Website: [gccnj.org](https://gccnj.org)
-- Contact: Christina Moon
+- Contact: Christina Moon [Manna]
 - Email: [cm24@princeton.edu](mailto:cm24@princeton.edu)
 
 # Online Only
@@ -99,7 +106,7 @@ The following churches are offering only online services
 
 - Address: 471 Cherry Valley Rd, Princeton, NJ 08540
 - Website: [princetonchristianchurch.org](http://www.princetonchristianchurch.org)
-- Contact: Joshua Ku [MANNA]
+- Contact: Joshua Ku [Manna]
 - Email: [jku@princeton.edu](mailto:jku@princeton.edu)
 
 ## ⛪️ Princeton United Methodist Church
