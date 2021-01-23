@@ -45,6 +45,12 @@ time I arrive in Princeton until the end of the semester
 - Contact: Ysabel Ayala [Christian Union NOVA]
 - Email: [yayala@princeton.edu](mailto:yayala@princeton.edu)
 
+## ⛪️ Change Church
+
+- Address: 1005 Whitehead Rd Ext # E, Ewing Township, NJ 08638
+- Contact: Tamilore Ajeigbe [Christian Union NOVA]
+- Email: [oajeigbe@princeton.edu](mailto:oajeigbe@princeton.edu)
+
 # Outside of Mercer County and Plainsboro
 
 Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within Mercer and Plainsboro county boundaries and online services.
