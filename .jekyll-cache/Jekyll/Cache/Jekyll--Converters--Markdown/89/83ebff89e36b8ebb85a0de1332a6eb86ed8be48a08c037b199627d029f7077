@@ -1,4 +1,4 @@
-I"<ul>
+I"�<ul>
   <li><a href="#within-mercer-county-and-plainsboro">In person within Mercer and Plainsboro</a></li>
   <li><a href="#outside-of-mercer-county-and-plainsboro">Ouside Mercer and Plainsboro</a></li>
   <li><a href="#online-only">Online Only</a></li>
@@ -29,7 +29,7 @@ time I arrive in Princeton until the end of the semester</p>
 
 <ul>
   <li>Address: 1025 Bunn Dr, Princeton, NJ 08540</li>
-  <li>Website: <a href="http://stonehillprinceton.org">http://stonehillprinceton.org</a></li>
+  <li>Website: <a href="http://stonehillprinceton.org">stonehillprinceton.org</a></li>
   <li>Contact: Katie Baldwin [Princeton Christian Fellowship]</li>
   <li>Email: <a href="mailto:kgb2@princeton.edu">kgb2@princeton.edu</a></li>
 </ul>
@@ -38,6 +38,7 @@ time I arrive in Princeton until the end of the semester</p>
 
 <ul>
   <li>Address: 140 Denow Rd, Trenton, NJ 08648</li>
+  <li>Website: <a href="http://hopechurch-nj.org">hopechurch-nj.org</a></li>
   <li>Contact: Joshua Eastman [Christian Union NOVA]</li>
   <li>Email: <a href="mailto:jeastman@princeton.edu">jeastman@princeton.edu</a></li>
 </ul>
@@ -46,6 +47,7 @@ time I arrive in Princeton until the end of the semester</p>
 
 <ul>
   <li>Address: 20 Schalks Crossing Rd, Plainsboro Township, NJ 08536</li>
+  <li>Website: <a href="https://princetonalliance.org">princetonalliance.org</a></li>
   <li>Contact: Ysabel Ayala [Christian Union NOVA]</li>
   <li>Email: <a href="mailto:yayala@princeton.edu">yayala@princeton.edu</a></li>
 </ul>
@@ -53,7 +55,8 @@ time I arrive in Princeton until the end of the semester</p>
 <h2 id="️-change-church">⛪️ Change Church</h2>
 
 <ul>
-  <li>Address: 1005 Whitehead Rd Ext # E, Ewing Township, NJ 08638</li>
+  <li>Address: 200 Ludlow Ave. Ewing, NJ 08638</li>
+  <li>Website: <a href="https://lifechange.org/ewing/">lifechange.org/ewing/</a></li>
   <li>Contact: Tamilore Ajeigbe [Christian Union NOVA]</li>
   <li>Email: <a href="mailto:oajeigbe@princeton.edu">oajeigbe@princeton.edu</a></li>
 </ul>
@@ -66,16 +69,20 @@ time I arrive in Princeton until the end of the semester</p>
 
 <ul>
   <li>Address: 2000 NJ-27, North Brunswick Township, NJ 08902</li>
+  <li>Website: <a href="https://www.jacobswellnj.org">jacobswellnj.org</a></li>
   <li>Contact: Tyler Ashman [Christian Union NOVA]</li>
-  <li>Email: <a href="tashman@princeton.edu">tashman@princeton.edu</a></li>
+  <li>Email: <a href="mailto:tashman@princeton.edu">tashman@princeton.edu</a></li>
 </ul>
 
 <h1 id="online-only">Online Only</h1>
+
+<p>The following churches are offering only online services</p>
 
 <h2 id="️-first-baptist-church">⛪️ First Baptist Church</h2>
 
 <ul>
   <li>Address: 30 Green St, Princeton, NJ 08542</li>
+  <li>Website: <a href="http://www.1stbcpnj.org/index.html">1stbcpnj.org/index.html</a></li>
   <li>Contact: Brian Foster [Christian Union NOVA]</li>
   <li>Email: <a href="mailto:bmfoster@princeton.edu">bmfoster@princeton.edu</a></li>
 </ul>
@@ -84,16 +91,19 @@ time I arrive in Princeton until the end of the semester</p>
 
 <ul>
   <li>Address: 471 Cherry Valley Rd, Princeton, NJ 08540</li>
+  <li>Website: <a href="http://www.princetonchristianchurch.org">princetonchristianchurch.org</a></li>
   <li>Contact: Joshua Ku [MANNA]</li>
   <li>Email: <a href="mailto:jku@princeton.edu">jku@princeton.edu</a></li>
 </ul>
 
 <h2 id="️-princeton-united-methodist-church">⛪️ Princeton United Methodist Church</h2>
 
+<p>Offering Facebook Live and Vimeo services.</p>
+
 <ul>
   <li>Address: 7 Vandeventer Ave, Princeton NJ 08542</li>
   <li>Website: <a href="https://princetonumc.org">https://princetonumc.org</a></li>
-  <li>Contact: Paige Allen [MANNA]</li>
-  <li>Email: <a href="mailto:jku@princeton.edu">jku@princeton.edu</a></li>
+  <li>Contact: Paige Allen [Wesley Foundation]</li>
+  <li>Email: <a href="mailto:peallen@princeton.edu">peallen@princeton.edu</a></li>
 </ul>
 :ET
