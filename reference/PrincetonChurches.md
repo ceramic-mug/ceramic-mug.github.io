@@ -88,7 +88,7 @@ Meeting in person once a month, but outside Mercer County. Offering online servi
 
 The following churches are offering only online services
 
-## ⛪️ First Baptist Church
+## ⛪️ First Baptist Church of Princeton
 
 - Address: 30 Green St, Princeton, NJ 08542
 - Website: [1stbcpnj.org/index.html](http://www.1stbcpnj.org/index.html)
@@ -110,4 +110,3 @@ Offering Facebook Live and Vimeo services.
 - Website: [https://princetonumc.org](https://princetonumc.org)
 - Contact: Paige Allen [Wesley Foundation]
 - Email: [peallen@princeton.edu](mailto:peallen@princeton.edu)
-
