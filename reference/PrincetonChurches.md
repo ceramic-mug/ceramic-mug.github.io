@@ -39,9 +39,15 @@ time I arrive in Princeton until the end of the semester
 - Contact: Joshua Eastman [Christian Union NOVA]
 - Email: [jeastman@princeton.edu](mailto:jeastman@princeton.edu)
 
+## ⛪️ Princeton Alliance Church
+
+- Address: 20 Schalks Crossing Rd, Plainsboro Township, NJ 08536
+- Contact: Ysabel Ayala [Christian Union NOVA]
+- Email: [yayala@princeton.edu](mailto:yayala@princeton.edu)
+
 # Outside of Mercer County and Plainsboro
 
-Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within those county boundaries and online services.
+Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within Mercer and Plainsboro county boundaries and online services.
 
 ## ⛪️ Jacob's Well (non-denomenational)
 
