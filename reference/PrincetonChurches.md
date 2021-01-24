@@ -14,8 +14,6 @@ This is a list of local Princeton-area Churches as of January, 2021. I hope Chri
 
 The Churches listed are in no particular order.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZOjYrGSNTMPXWz7A6OHOmp_LMjXP9iJ3" width="640" height="480"></iframe>
-
 # Within Mercer County and Plainsboro
 
 The following Churches hold services within Mercer and Plainsboro counties and are therefore appropriate for on-campus students to attend during the Spring 2021 semester. This is according to Dean Boden's message:
@@ -117,3 +115,11 @@ Offering Facebook Live and Vimeo services.
 - Website: [https://princetonumc.org](https://princetonumc.org)
 - Contact: Paige Allen [Wesley Foundation]
 - Email: [peallen@princeton.edu](mailto:peallen@princeton.edu)
+
+# Map of Listed Churches
+
+- Orange: Within Mercer and Plainsboro
+- Red: Outside of Mercer and Plainsboro
+- Teal: Online Only
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZOjYrGSNTMPXWz7A6OHOmp_LMjXP9iJ3" width="640" height="480"></iframe>
