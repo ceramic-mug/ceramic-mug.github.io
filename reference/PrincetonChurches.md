@@ -7,7 +7,7 @@ exclude: true
 *To add a church to this list, please contact Joshua Eastman at [jeastman@princeton.edu](mailto:jeastman@princeton.edu)*
 
 - [In person within Mercer and Plainsboro](#within-mercer-county-and-plainsboro)
-- [Ouside Mercer and Plainsboro](#outside-of-mercer-county-and-plainsboro)
+- [Outside Mercer and Plainsboro](#outside-of-mercer-county-and-plainsboro)
 - [Online Only](#online-only)
 
 This is a list of local Princeton-area Churches as of January, 2021. I hope Christian students on Princeton's campus will be able to use this page to find and join a local Church.
