@@ -9,6 +9,7 @@ exclude: true
 - [In person within Mercer and Plainsboro](#within-mercer-county-and-plainsboro)
 - [Outside Mercer and Plainsboro](#outside-of-mercer-county-and-plainsboro)
 - [Online Only](#online-only)
+- [Map of Listed Churches](#map-of-listed-churches)
 
 This is a list of local Princeton-area Churches as of January, 2021. I hope Christian students on Princeton's campus will be able to use this page to find and join a local Church.
 
