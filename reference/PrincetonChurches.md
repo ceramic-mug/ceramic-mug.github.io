@@ -74,6 +74,15 @@ time I arrive in Princeton until the end of the semester
 - Contact: Patrick Huang [PCF]
 - Email: [patrick.huang@princeton.edu](mailto:patrick.huang@princeton.edu)
 
+## ⛪️ Bridge Church
+
+In-person sercives at 10am and 12pm if you register ahead of time. Also livestreaming on their website.
+
+- Address: 3752 Nottingham Way, Hamilton Square, NJ 08690
+- Website: [bridgechurchnj.org](https://www.bridgechurchnj.org/)
+- Contact: Selena Hostetler [Christian Union NOVA]
+- Email: [selenah@princeton.edu](mailto:selenah@princeton.edu)
+
 # Outside of Mercer County and Plainsboro
 
 Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within Mercer and Plainsboro county boundaries and online services.
