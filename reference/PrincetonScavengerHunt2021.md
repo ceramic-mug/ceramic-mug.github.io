@@ -18,6 +18,7 @@ Without further ado, let's begin!
 6. Many tires went into the funding of this building, and many long hours have been spent here among the rows and rows of wisdom.
 7. You've got a _______ in me, you've got a ______ in me! Can you build a good algorithm to crack this one?
 8. This City in Ohio can't have a tower as pretty as the one named after it. Golf course on one side, grad college on the other, you can hear the bells from this campanile from Forbes and see it from the backyard!
+9. A goose! A goose! Home of the made-to-order 3am coffee run. Don't miss your train!
 
 
 # 🗿 Monuments
