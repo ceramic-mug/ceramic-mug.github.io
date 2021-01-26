@@ -46,3 +46,4 @@ Without further ado, let's begin!
 6. The strangest little Einstein museum in the back of a clothing store
 7. Crooked fork? Squished knife? No, that's not it... But it has the best ice-cream around
 8. Liberry liberry lend me a free parking pass please! Great study rooms in this public book-house.
+9. MASSIVE monument to G-dub and the revolutionary war, close to Einstein's disembodied head and a dude reading a newspaper
