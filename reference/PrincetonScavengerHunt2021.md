@@ -27,15 +27,22 @@ Without further ado, let's begin!
 1. Topologically a donut, but kinda pointy tbh. You can see it on the way to financial services.
 2. An actual dinosaur?! Really?! We have one of those?? (This one is indoors)
 3. Splish splash, splish splash, SPIA! What's that in the middle?
-3. Tiger statue design 1
-4. Tiger statue design 2
-5. Tiger statue design 3
+3. Tiger statue 1. Likes to watch football.
+4. Tiger statue 2. Flanks the old hall steps.
+5. Tiger statue 3. Don't forget your wig!
 6. Like a keychain ring that you've stretched a little too much
 7. The RIBOSOME. Look to the giant shutters for guidance. (This one is indoors)
 8. Look twice at Double Sights. Then splash around in the nearby pool.
 9. Maybe related to Reese Witherspoon, but likes to put his books on an eagle
 10. These gates fitz like a glove!
 
-# 🏢 Princeton Town
+# 🏢 Town and Around
 
-1. 
+1. Middle of your hand, but square, with some nice greenery and surrounded by small-town shops
+2. Shares its name with the most annoying Disney World ride, but great coffee and good vibes
+3. Don't get lost in here! Lots of books and school supplies. Thankfully, no minotaur at the center.
+4. Sub-sandwich Heaven? No, but close. Some darn good sandwiches. Try their sanchez sauce!
+5. Toe road. Mules used to pull ships along here. Great for running, walking, and goes a long, long way! Right by the water.
+6. The strangest little Einstein museum in the back of a clothing store
+7. Crooked fork? Squished knife? No, that's not it... But it has the best ice-cream around
+8. Liberry liberry lend me a free parking pass please! Great study rooms in this public book-house.
