@@ -15,7 +15,7 @@ Without further ado, let's begin!
 3. Small...? er, tiny...? er, short...? hall. Likes to hang out near the gym.
 4. These upperclassman residential bees make short work of me without autocorrect, man oh man! Especially near Forbes!
 5. It's ok, I guess. Ok. Really tall, and it's hard to comprehend all the numbers. Caught on fire from arson a couple of years ago.
-6. Many tires went into the funding of this building, and many long hours have been spent here among the rows and rows of wisdom.
+6. Many tires went into the funding of this building, and many long hours have been spent here among the rows and rows of knowledge. Don't yell this in a crowded theatre.
 7. You've got a [xxxxxx] in me, you've got a [xxxxxx] in me! Can you build a good algorithm to crack this one?
 8. This City in Ohio can't have a tower as pretty as the one named after it. Golf course on one side, grad college on the other, you can hear the bells from this campanile from Forbes and see it from the backyard!
 9. A goose! A goose! Home of the made-to-order 3am coffee run. Don't miss your train!
