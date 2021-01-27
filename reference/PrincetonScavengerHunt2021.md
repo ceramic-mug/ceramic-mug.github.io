@@ -30,7 +30,7 @@ Without further ado, let's begin!
 3. Tiger statue 1. Likes to watch football.
 4. Tiger statue 2. Flanks the old hall steps.
 5. Tiger statue 3. Don't forget your wig!
-6. Like a keychain ring that you've stretched a little too much
+6. Like a keychain ring that you've stretched a little too much. By Whitman
 7. The RIBOSOME. Look to the giant shutters for guidance. (This one is indoors)
 8. Look twice at Double Sights. Then splash around in the nearby pool.
 9. Maybe related to Reese Witherspoon, but likes to put his books on an eagle
