@@ -4,6 +4,9 @@ layout: standalone
 exclude: true
 ---
 
+<img class="header"
+     src="/assets/princeton-banner.png">
+
 Welcome to the Princeton University 2021 Freshman Scavenger Hunt! As you look for the items on this list, please maintain proper social distancing, wear face-coverings, and travel in groups of no more than 5 people outdoors and no more than 3 people indoors.
 
 Without further ado, let's begin!
@@ -13,7 +16,7 @@ Without further ado, let's begin!
 1. Past Edgar Allan, through the shadow of Lewis Seigler, and over three-of-these-and-you're-out-er stands the glassy-eyed, stone-faced facadé of Henry Clay.
 2. We sing in praise of old [xxxxxx]
 3. Small...? er, tiny...? er, short...? hall. Likes to hang out near the gym.
-4. These upperclassman residential bees make short work of me without autocorrect, man oh man! Especially near Forbes!
+4. These upperclassman residential bees make short work of me wihout autocorrect, man oh man! Especially near Forbes!
 5. It's ok, I guess. Ok. Really tall, and it's hard to comprehend all the numbers. Caught on fire from arson a couple of years ago.
 6. Many tires went into the funding of this building, and many long hours have been spent here among the rows and rows of knowledge. Don't yell this in a crowded theatre.
 7. You've got a [xxxxxx] in me, you've got a [xxxxxx] in me! Can you build a good algorithm to crack this one?
@@ -47,4 +50,3 @@ Without further ado, let's begin!
 7. Crooked fork? Squished knife? No, that's not it... But it has the best ice-cream around
 8. Liberry liberry lend me a free parking pass please! Great study rooms in this public book-house.
 9. MASSIVE monument to G-dub and the revolutionary war, close to Einstein's disembodied head and a dude reading a newspaper
-10. The newest store on Nassau? That's convenient! Close to Panera. Go inside and talk to the owners, they are very nice!
