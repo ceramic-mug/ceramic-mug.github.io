@@ -47,3 +47,5 @@ Without further ado, let's begin!
 7. Crooked fork? Squished knife? No, that's not it... But it has the best ice-cream around
 8. Liberry liberry lend me a free parking pass please! Great study rooms in this public book-house.
 9. MASSIVE monument to G-dub and the revolutionary war, close to Einstein's disembodied head and a dude reading a newspaper
+10. The newest store on Nassau? That's convenient! Go inside and talk to the owner, she's really nice!
+
