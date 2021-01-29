@@ -1,9 +1,9 @@
-I"<center>
+I"<center>
 <img src="/assets/mug3.png" alt="mugShot" width="100" align="center" />
 </center>
 <p><br /></p>
 
-<p>My name is Joshua Eastman. I grew up in Huntington, West Virginia, in the love of my family and my home church, New Baptist. My life is centered on the life, death, and resurrection of Jesus, and my passions include coffee, open source computing, outdoor adventure, good books, and learning.</p>
+<p>My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is rooted on the life, death, and resurrection of Jesus, and my passions include coffee, open source computing, outdoor adventure, good books, and learning.</p>
 
 <p>The name of this blog comes from the New Testament of the Christian Bible, in 2 Corinthians chapter 4, specifically verse 6:</p>
 
@@ -13,11 +13,9 @@
 
 <p>“ceramic_mug” is also my Xbox-live username.</p>
 
-<p>I currently study <a href="https://eeb.princeton.edu/">Ecology and Evolutionary Biology</a>, <a href="https://www.cs.princeton.edu/ugrad/overview">Applications of Computing</a>, and <a href="https://www.princeton.edu/academics/area-of-study/quantitative-and-computational-biology">Quantitative and Computational Biology</a> at Princeton University in New Jersey.</p>
+<p>I currently study <a href="https://cee.princeton.edu">Environmental Engineering</a> at Princeton University in New Jersey.</p>
 
 <p>Formative authors in my life include Bill Watterson, C.S.Lewis, J.R.R. Tolkein, G.K.Chesterton, Deitrich Bonhoeffer, Glen Cook, and John Howard Yoder. I’m sure there are others that I’m not remembering right now. I’ll add them to the list as they come to me.</p>
-
-<p>My primary computer is a <a href="https://www.apple.com/macbook/">Macbook</a> that I got in 2016. I prefer coding in either <a href="https://atom.io/">Atom</a> or <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>, browsing with <a href="https://duckduckgo.com/">DuckDuckGo</a>, and using <a href="https://fishshell.com/">FISH</a> for my terminal shell. I’ll include a page of my favorite open source software elsewhere on this website.</p>
 
 <p>This blog is built using the open-source static site generator <a href="https://jekyllrb.com/">Jekyll</a>. Jekyll is super awesome and really easy to get up and running with <a href="https://github.com/">Github</a> as a free blogging platform. I’m using the base theme <a href="https://github.com/jekyll/minima">minima</a> with increasing customization as time goes on, but there is a whole host of other Jekyll themes that you could use for your own site.</p>
 :ET
