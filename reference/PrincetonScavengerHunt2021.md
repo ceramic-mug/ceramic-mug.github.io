@@ -7,11 +7,13 @@ exclude: true
 <img class="header-img"
      src="/assets/princeton-banner.png">
 
-Welcome to the Princeton University 2021 Freshman Scavenger Hunt! As you look for the items on this list, please maintain proper social distancing, wear face-coverings, and travel in groups of no more than 5 people outdoors and no more than 3 people indoors.
+Welcome to the Princeton University 2021 Freshman Scavenger Hunt! As you look for the items on this list, please maintain proper social distancing, wear face-coverings, and travel in groups of no more than 10 people outdoors and no more than 5 people indoors.
 
 This scavenger hunt was developed by Joshua Eastman, '22 CEE and Forbes RCA, and is not officially endorsed by the University.
 
 Without further ado, let's begin!
+
+*![Download PDF Version]("assets/Princeton University Scavenger Hunt.pdf")*
 
 # 🏘 Buildings
 
