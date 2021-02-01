@@ -13,7 +13,7 @@ This scavenger hunt was developed by Joshua Eastman, '22 CEE and Forbes RCA, and
 
 Without further ado, let's begin!
 
-*![Download PDF Version]("assets/Princeton University Scavenger Hunt.pdf")*
+*[Download PDF Version]("assets/Princeton University Scavenger Hunt.pdf")*
 
 # 🏘 Buildings
 
