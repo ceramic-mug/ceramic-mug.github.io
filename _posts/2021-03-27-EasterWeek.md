@@ -53,10 +53,10 @@ What's the biblical basis for Palm Sunday and its traditions? What's up with the
 
 - **Palm branches:** Three of the four Gospel accounts mention the crowd getting some kind of branch and spreading those branches on the road in front of Jesus. The writers of Matthew and Mark write "branches from the trees" and "branches that they had cut in the fields," respectively, while John's Gospel specifically mentions "branches of palm trees." John's specific designation of palm trees and the recurring scene across the Gospels of people in the crowd taking branches and laying them on the path before Jesus has led to the incorperation of palm branches into Palm Sunday, and into the name of Palm Sunday itself.
 - **"Blessed is he...":** The commonly repeated phrase in Palm Sunday services is "Hosanna! Blessed is He who comes in the name of the Lord." Hosanna is simply a happy or exciting shout, like "Woohoo!". The "Blessed is He..." phrase corresponds to the shouts of the crowds around Jesus as recorded in all four Gospels: 
-  - Matthew: "*Hosanna to the Son of David! Blessed is the one who comes in the name of the Lord! Hosanna in the highest heaven!*"
-  - Mark: "*Hosanna! Blessed is the one who comes in the name of the Lord! Blessed is the coming kingdom of our ancestor David! Hosanna in the highest heaven!*"
-  - Luke: "*Blessed is the king who comes in the name of the Lord! Peace in heaven, and glory in the highest heaven!*"
-  - John: "*Hosanna! Blessed is the one who comes in the name of the Lord— the King of Israel!*"
+  - **Matthew:** "*==Hosanna== to the Son of David! ==Blessed is the one who comes in the name of the Lord!== Hosanna in the highest heaven!*"
+  - **Mark:** "*==Hosanna! Blessed is the one who comes in the name of the Lord!== Blessed is the coming kingdom of our ancestor David! Hosanna in the highest heaven!*"
+  - **Luke:** "==*Blessed is the king who comes in the name of the Lord!== Peace in heaven, and glory in the highest heaven!*"
+  - **John:** "*==Hosanna! Blessed is the one who comes in the name of the Lord==— the King of Israel!*"
 
 You will notice that the crowd calls Jesus "the Son of David," and relates Jesus' arrival in Jerusalem to "the coming kingdom of our ancestor David" (Matthew and Mark, respectively). The title "Son of David" refers to a specific promise that God makes with David, one of the first Kings of the nation of Israel, who was born around 1000 BCE. The promise is recorded in the book of **2 Samuel**, which is a part of the Old Testament (Jewish scriptures), and it reads like this:
 
