@@ -150,7 +150,7 @@ blockquote {
   padding-left: $spacing-unit;
   padding-right: $spacing-unit;
   text-align: justify;
-  @include relative-font-size(0.9);
+  @include relative-font-size(1.2);
   font-family: times;
   font-style: italic;
 
