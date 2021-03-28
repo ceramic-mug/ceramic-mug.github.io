@@ -6,7 +6,7 @@ category: life
 
 **Navigate to:**
 
-- [🌿 What is Palm Sunday?](#what-is-palm-sunday?)
+- [🌿 What is Palm Sunday?](#what-is-palm-sunday)
 
 # ✈️ Overview
 
