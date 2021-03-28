@@ -19,7 +19,7 @@ Each of these mini-holidays point to specific moments in the life of Jesus leadi
 
 Generally, Christian holidays, and the rituals that accompany them, are all about **remembering** something that God has done. Specifically, Christians celebrate and **remember** those things that have been documented and transmitted in the form of written word in the Bible.
 
-*Note: I will use the New Revised Standard Version (NRSV) for all quotations from the Bible. The NRSV is the Egnlish translation [most commonly used by Biblical scholars.](https://en.wikipedia.org/wiki/Modern_English_Bible_translations)*
+*Note: I will use the New Revised Standard Version (NRSV) for all quotations from the Bible. The NRSV is the English translation [most commonly used by Biblical scholars.](https://en.wikipedia.org/wiki/Modern_English_Bible_translations)*
 
 # 🌿 What is Palm Sunday?
 
