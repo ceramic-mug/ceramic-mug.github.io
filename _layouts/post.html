@@ -15,6 +15,25 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  <button id="cmd">Generate PDF</button>
+
+<script>
+    var doc = new jsPDF();
+    var specialElementHandlers = {
+        '#editor': function (element, renderer) {
+            return true;
+        }
+    };
+
+    $('#cmd').click(function () {
+        doc.fromHTML($('#content').html(), 15, 15, {
+            'width': 170,
+                'elementHandlers': specialElementHandlers
+        });
+        doc.save('web_download.pdf');
+    });
+</script>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
