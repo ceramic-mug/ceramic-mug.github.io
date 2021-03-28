@@ -4,10 +4,6 @@ layout: post
 category: life
 ---
 
-**Navigate to:**
-
-- [🌿 What is Palm Sunday?](#🌿-what-is-palm-sunday?)
-
 # ✈️ Overview
 
 The purpose of this post is to explore the following questions: What is Easter? What are all the strange mini-holidays that happen on Easter week?
