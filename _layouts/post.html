@@ -15,19 +15,6 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <button id="cmd">Generate PDF</button>
-
-<script>
-    import { jsPDF } from "jspdf";
-    var doc = new jsPDF();
-
-    $('#cmd').click(function () {
-        doc.fromHTML($('#post-content').html(), 15, 15, {
-            'width': 170});
-        doc.save('download.pdf');
-    });
-</script>
-
   <div id="post-content" class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
