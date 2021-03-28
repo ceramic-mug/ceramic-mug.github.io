@@ -18,6 +18,7 @@ layout: default
   <button id="cmd">Generate PDF</button>
 
 <script>
+    import { jsPDF } from "jspdf";
     var doc = new jsPDF();
 
     $('#cmd').click(function () {
