@@ -4,9 +4,15 @@ layout: post
 category: life
 ---
 
-Many people grow up going to Church or have friends who participate in Church. There tend to be two large holiday seasons celebrated widely in the Church--Easter and Christmas. Both of these seasons are surrounded by a lot of cultural and religious ritual.
+**Navigate to:**
 
-The Christian story behind Christmas is, I think, easier to understand than the Easter season. The Christmas season celebrates the birth of Jesus, who Christians believe to be God incarnate. But what is Easter? And what are all the strange mini-holidays that happen on Easter week? These mini-holidays include:
+- [🌿 What is Palm Sunday?](#what-is-palm-sunday?)
+
+# ✈️ Overview
+
+The purpose of this post is to explore the following questions: What is Easter? What are all the strange mini-holidays that happen on Easter week?
+
+These mini-holidays include:
 
 - **Palm Sunday** (the Sunday before Easter)
 - **Maundy Thursday** (the Thursday before Easter)
