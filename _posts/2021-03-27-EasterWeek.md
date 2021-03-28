@@ -4,16 +4,16 @@ layout: post
 category: life
 ---
 
-Many people in the United States grow up going to Church or have friends who participate in Church. There tend to be two large holiday seasons celebrated widely in the Church--Easter and Christmas. Both of these seasons are surrounded by a lot of cultural and religious ritual.
+Many people grow up going to Church or have friends who participate in Church. There tend to be two large holiday seasons celebrated widely in the Church--Easter and Christmas. Both of these seasons are surrounded by a lot of cultural and religious ritual.
 
-Christmas is, I think, easier to understand than the Easter season. The Christmas season celebrates the birth of Jesus, who Christians believe to be God incarnate. But what is Easter? And what are all the strange mini-holidays that happen on Easter week? These mini-holidays include:
+The Christian story behind Christmas is, I think, easier to understand than the Easter season. The Christmas season celebrates the birth of Jesus, who Christians believe to be God incarnate. But what is Easter? And what are all the strange mini-holidays that happen on Easter week? These mini-holidays include:
 
 - **Palm Sunday** (the Sunday before Easter)
 - **Maundy Thursday** (the Thursday before Easter)
 - **Good Friday** (the Friday before Easter)
 - **Easter**
 
-Each of these mini-holidays point to specific moments in the life of Jesus leading up to His death and resurrection. The purpose of this post is to help connect the dots between these celebrations, the rituals that often accompany them, and the historical events in the week of Jesus' death and resurrection. I will do this by sharing the passages from each of Gospels (the books in the Bible that record the life of Jesus) that correspond to these mini-holidays with brief clarifying comments about specific aspects of Christains' modern celebrations.
+Each of these mini-holidays point to specific moments in the life of Jesus leading up to His death and resurrection. The purpose of this blog post is to help connect the dots between each of these these celebrations, the rituals that often accompany them, and the historical events in the week of Jesus' death and resurrection. I will do this by sharing the passages from each of the four Gospels (the books in the Bible that record the life of Jesus) that correspond to each mini-holidays with brief clarifying comments about specific aspects of Christains' modern celebrations or language in the text.
 
 Generally, Christian holidays, and the rituals that accompany them, are all about **remembering** something that God has done. Specifically, Christians celebrate and **remember** those things that have been documented and transmitted in the form of written word in the Bible.
 
@@ -31,7 +31,7 @@ What's the biblical basis for Palm Sunday and its traditions? What's up with the
 
 **Palm Sunday celebrates Jesus' arrival in Jerusalem the week of His death and resurrection.** The traditions of waving palm branches and shouting "Hosanna!" come from descriptions of the event in the Bible. This event is recorded in all four Gospels (the Gospels are the books of the Bible that recount Jesus' life and ministry, death, and resurrection) and corresponds to prophecies in the Old Testament (the Jewish scriptures that make up the first part of the Christian Bible). Here are the descriptions from each of the Gospels:
 
-## 📖 The Biblical record of Jesus' Arrival in Jerusalem
+## 📖 The Biblical record of Jesus' arrival in Jerusalem
 
 **From the Gospel of Matthew, chapter 21:**
 
@@ -49,7 +49,28 @@ What's the biblical basis for Palm Sunday and its traditions? What's up with the
 
 > The next day the great crowd that had come to the festival heard that Jesus was coming to Jerusalem. So they took branches of palm trees and went out to meet him, shouting, "Hosanna! Blessed is the one who comes in the name of the Lord— the King of Israel!" Jesus found a young donkey and sat on it; as it is written: "Do not be afraid, daughter of Zion. Look, your king is coming, sitting on a donkey's colt!"
 
-## 💡 Connections to modern Palm Sunday rituals
+## 💡 Connections between texts and to modern rituals
 
 - **Palm branches:** Three of the four Gospel accounts mention the crowd getting some kind of branch and spreading those branches on the road in front of Jesus. The writers of Matthew and Mark write "branches from the trees" and "branches that they had cut in the fields," respectively, while John's Gospel specifically mentions "branches of palm trees." John's specific designation of palm trees and the recurring scene across the Gospels of people in the crowd taking branches and laying them on the path before Jesus has led to the incorperation of palm branches into Palm Sunday, and into the name of Palm Sunday itself.
-- **"Blessed is he...":** 
+- **"Blessed is he...":** The commonly repeated phrase in Palm Sunday services is "Hosanna! Blessed is He who comes in the name of the Lord." Hosanna is simply a happy or exciting shout, like "Woohoo!". The "Blessed is He..." phrase corresponds to the shouts of the crowds around Jesus as recorded in all four Gospels: 
+  - Matthew: "*Hosanna to the Son of David! Blessed is the one who comes in the name of the Lord! Hosanna in the highest heaven!*"
+  - Mark: "*Hosanna! Blessed is the one who comes in the name of the Lord! Blessed is the coming kingdom of our ancestor David! Hosanna in the highest heaven!*"
+  - Luke: "*Blessed is the king who comes in the name of the Lord! Peace in heaven, and glory in the highest heaven!*"
+  - John: "*Hosanna! Blessed is the one who comes in the name of the Lord— the King of Israel!*"
+
+You will notice that the crowd calls Jesus "the Son of David," and relates Jesus' arrival in Jerusalem to "the coming kingdom of our ancestor David" (Matthew and Mark, respectively). The title "Son of David" refers to a specific promise that God makes with David, one of the first Kings of the nation of Israel, who was born around 1000 BCE. The promise is recorded in the book of **2 Samuel**, which is a part of the Old Testament (Jewish scriptures), and it reads like this:
+
+> When your [David's] days are fulfilled and you lie down with your ancestors, I will raise up your offspring after you, who shall come forth from your body, and I will establish his kingdom. He shall build a house for my name, and I will establish the throne of his kingdom forever.
+
+The crowd around Jesus interprets his arrival in Jerusalem as the inaguration of the kingdom which God promised to establish through David's offspring.
+
+- **The donkey:** As you read the accounts of Jesus' arrival in Jerusalem, it's clear that the donkey is important. All four of the Gospel writers include descriptions of the donkey, and three of the Gospels have fairly lengthy descriptions of how the donkey was acquired for Jesus. Why is the donkey so important? Note how both Matthew's and John's Gospels give us insight.
+
+  - **Matthew:** "*==This took place to fulfill what had been spoken through the prophet==, saying, "Tell the daughter of Zion, Look, your king is coming to you, humble, and mounted on a donkey, and on a colt, the foal of a donkey*."
+  - **John:** "Jesus found a young donkey and sat on it; ==as it is written==: "Do not be afraid, daughter of Zion. Look, your king is coming, sitting on a donkey's colt!""
+
+  The writers are referring to a message the prophet Zechariah (c. 520-518 BCE) preached to the nation of Israel, recorded in the book of Zechariah in the Old Testament (**Zechariah chapter 9 verse 9**). Both of the Gospel writers quote this passage and interpret Jesus' choice to ride on a donkey as a fulfillment of Zechariah's prophecy some 500 years before.
+
+# 🍷🍞 What is Maundy Thursday?
+
+Maundy Thursday is celebrated the Thursday before Easter.
