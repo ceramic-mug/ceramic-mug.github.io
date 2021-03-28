@@ -76,7 +76,7 @@ The crowd around Jesus interprets his arrival in Jerusalem as the inaguration of
   - **Matthew:** "*<mark>This took place to fulfill what had been spoken through the prophet</mark>, saying, "Tell the daughter of Zion, Look, your king is coming to you, humble, and mounted on a donkey, and on a colt, the foal of a donkey*."
   - **John:** "*Jesus found a young donkey and sat on it; <mark>as it is written</mark>: "Do not be afraid, daughter of Zion. Look, your king is coming, sitting on a donkey's colt!*""
 
-The writers are referring to a message the prophet Zechariah (c. 520-518 BCE) preached to the nation of Israel, recorded in the book of Zechariah in the Old Testament (**Zechariah chapter 9 verse 9**). Both of the Gospel writers quote this passage and interpret Jesus' choice to ride on a donkey as a fulfillment of Zechariah's that Israel's king would come riding on a donkey's colt. This helps explain why the crowd interprets Jesus' arrival as inagurating the kingdom of David.
+The writers are referring to a message the prophet Zechariah (c. 520-518 BCE) preached to the nation of Israel, recorded in the book of Zechariah in the Old Testament (**Zechariah chapter 9 verse 9**). Both of the Gospel writers quote this passage and interpret Jesus' choice to ride on a donkey as a fulfillment of Zechariah's prophecy that Israel's king would come riding on a donkey's colt. This helps explain why the crowd interprets Jesus' arrival as inagurating the kingdom of David.
 
 # 🍷🍞 What is Maundy Thursday?
 
