@@ -52,11 +52,20 @@ What's the biblical basis for Palm Sunday and its traditions? What's up with the
 ## 💡 Connections between texts and to modern rituals
 
 - **Palm branches:** Three of the four Gospel accounts mention the crowd getting some kind of branch and spreading those branches on the road in front of Jesus. The writers of Matthew and Mark write "branches from the trees" and "branches that they had cut in the fields," respectively, while John's Gospel specifically mentions "branches of palm trees." John's specific designation of palm trees and the recurring scene across the Gospels of people in the crowd taking branches and laying them on the path before Jesus has led to the incorperation of palm branches into Palm Sunday, and into the name of Palm Sunday itself.
+
 - **"Blessed is he...":** The commonly repeated phrase in Palm Sunday services is "Hosanna! Blessed is He who comes in the name of the Lord." Hosanna is simply a happy or exciting shout, like "Woohoo!". The "Blessed is He..." phrase corresponds to the shouts of the crowds around Jesus as recorded in all four Gospels: 
+
+  
+
   - **Matthew:** "*<mark>Hosanna</mark> to the Son of David! <mark>Blessed is the one who comes in the name of the Lord!</mark> Hosanna in the highest heaven!*"
+
   - **Mark:** "*<mark>Hosanna! Blessed is the one who comes in the name of the Lord!</mark> Blessed is the coming kingdom of our ancestor David! Hosanna in the highest heaven!*"
+
   - **Luke:** "*<mark>Blessed is the king who comes in the name of the Lord!</mark> Peace in heaven, and glory in the highest heaven!*"
+
   - **John:** "*<mark>Hosanna! Blessed is the one who comes in the name of the Lord</mark>— the King of Israel!*"
+
+    
 
 You will notice that the crowd calls Jesus "the Son of David," and relates Jesus' arrival in Jerusalem to "the coming kingdom of our ancestor David" (Matthew and Mark, respectively). The title "Son of David" refers to a specific promise that God makes with David, one of the first Kings of the nation of Israel, who was born around 1000 BCE. The promise is recorded in the book of **2 Samuel**, which is a part of the Old Testament (Jewish scriptures), and it reads like this:
 
@@ -66,11 +75,15 @@ The crowd around Jesus interprets his arrival in Jerusalem as the inaguration of
 
 - **The donkey:** As you read the accounts of Jesus' arrival in Jerusalem, it's clear that the donkey is important. All four of the Gospel writers include descriptions of the donkey, and three of the Gospels have fairly lengthy descriptions of how the donkey was acquired for Jesus. Why is the donkey so important? Note how both Matthew's and John's Gospels give us insight.
 
+  
+
   - **Matthew:** "*<mark>This took place to fulfill what had been spoken through the prophet</mark>, saying, "Tell the daughter of Zion, Look, your king is coming to you, humble, and mounted on a donkey, and on a colt, the foal of a donkey*."
   - **John:** "*Jesus found a young donkey and sat on it; <mark>as it is written</mark>: "Do not be afraid, daughter of Zion. Look, your king is coming, sitting on a donkey's colt!*""
 
-  The writers are referring to a message the prophet Zechariah (c. 520-518 BCE) preached to the nation of Israel, recorded in the book of Zechariah in the Old Testament (**Zechariah chapter 9 verse 9**). Both of the Gospel writers quote this passage and interpret Jesus' choice to ride on a donkey as a fulfillment of Zechariah's prophecy some 500 years before.
+  
+
+  The writers are referring to a message the prophet Zechariah (c. 520-518 BCE) preached to the nation of Israel, recorded in the book of Zechariah in the Old Testament (**Zechariah chapter 9 verse 9**). Both of the Gospel writers quote this passage and interpret Jesus' choice to ride on a donkey as a fulfillment of Zechariah's that Israel's king would come riding on a donkey's colt. This helps explain why the crowd interprets Jesus' arrival as inagurating the kingdom of David.
 
 # 🍷🍞 What is Maundy Thursday?
 
-Maundy Thursday is celebrated the Thursday before Easter.
+Maundy Thursday is celebrated the Thursday before Easter. **more to come**
