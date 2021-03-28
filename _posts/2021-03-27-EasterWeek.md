@@ -1,7 +1,7 @@
 ---
 title: 🌅 The Meaning of Easter-week Celebrations
 layout: post
-category: Bible
+category: life
 ---
 
 # ✈️ Overview
