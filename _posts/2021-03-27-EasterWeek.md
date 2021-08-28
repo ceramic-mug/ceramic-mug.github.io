@@ -32,6 +32,8 @@ Generally, Christian holidays, and the rituals that accompany them, are all abou
 
 # What is Palm Sunday?
 
+![Triumphal Entry](https://images.squarespace-cdn.com/content/v1/5a02216564b05fc4bbf1a61d/1522085421596-ECDKDSB3CQYAY4XW0Z25/ke17ZwdGBToddI8pDm48kMh331eGK7tVriJIn3Zm0QkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcRx1rhFrNMcHRVYUe8vVJmZyrM60hQvlGTRuTROtaWfbNkaFm0-yjXPiquc22OXdO/palm-sunday-1-copy.jpg?format=1500w)
+
 🌿 Palm Sunday is celebrated the Sunday before Easter. Churches tend to celebrate Palm Sunday by waving big palm branches around at some point during their worship service. In the Church where I grew up, we had a little procession of kids in preschool and elementary school walk through the sanctuary (where we held worship) carrying palm branches and shouting "Hosanna! Blessed is He who comes in the name of the Lord!"
 
 In some Churches, the palm branches are subsequently burned (not during the service, but sometime after), and the ashes of the burned palm branches from one year become the ashes applied to peoples' foreheads during the following year's Ash Wednesday.

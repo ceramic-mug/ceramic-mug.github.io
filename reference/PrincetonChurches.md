@@ -6,32 +6,50 @@ exclude: true
 
 *To add a church to this list, please contact Joshua Eastman at [jeastman@princeton.edu](mailto:jeastman@princeton.edu)*
 
-- [🙏 In person within Mercer and Plainsboro](#within-mercer-county-and-plainsboro)
-- [💻 Outside Mercer and Plainsboro](#outside-of-mercer-county-and-plainsboro)
-- [💻 Online Only](#online-only)
 - [📍 Map of Listed Churches](#map-of-listed-churches)
 
-This is a list of local Princeton-area Churches as of January, 2021. I hope Christian students on Princeton's campus will be able to use this page to find and join a local Church.
+This is a list of local Princeton-area Churches as of September, 2021. I hope Christian students on Princeton's campus will be able to use this page to find and join a local Church.
 
-The Churches listed are in no particular order.
+Churches are listed in alphabetical order
 
-# Within Mercer County and Plainsboro
+## ⛪️ Bridge Church
 
-The following Churches hold services within Mercer and Plainsboro counties and are therefore appropriate for on-campus students to attend during the Spring 2021 semester. This is according to Dean Boden's message:
+In-person sercives at 10am and 12pm if you register ahead of time. Also livestreaming on their website.
 
-> As for attending services off campus, yes, it is permitted once quarantine is over. But students must maintain the same safety practices that they commit to in the social contract, and the church must comply with all state regulations.
+- Address: 3752 Nottingham Way, Hamilton Square, NJ 08690
+- Website: [bridgechurchnj.org](https://www.bridgechurchnj.org/)
+- Contact: Selena Hostetler [Christian Union NOVA]
+- Email: [selenah@princeton.edu](mailto:selenah@princeton.edu)
 
-And the following line of the social contract
+## ⛪️ Calvary Chapel Living Hope
 
-> Not travel outside of Mercer County or Plainsboro, New Jersey, for any reason from the
-time I arrive in Princeton until the end of the semester
+- Address: 329 Edgebrook Rd, Robbinsville, NJ 08691
+- Website: [takejesushome.com](https://www.takejesushome.com)
+- Contact: Patrick Huang [PCF]
+- Email: [patrick.huang@princeton.edu](mailto:patrick.huang@princeton.edu)
 
-## ⛪️ Stone Hill (non-denomenational)
+## ⛪️ Change Church
 
-- Address: 1025 Bunn Dr, Princeton, NJ 08540
-- Website: [stonehillprinceton.org](http://stonehillprinceton.org)
-- Contact: Katie Baldwin [Princeton Christian Fellowship]
-- Email: [kgb2@princeton.edu](mailto:kgb2@princeton.edu)
+- Address: 200 Ludlow Ave. Ewing, NJ 08638
+- Website: [lifechange.org/ewing/](https://lifechange.org/ewing/)
+- Contact: Tamilore Ajeigbe [Christian Union NOVA]
+- Email: [oajeigbe@princeton.edu](mailto:oajeigbe@princeton.edu)
+
+## ⛪️ First Baptist Church of Princeton
+
+- Address: 30 Green St, Princeton, NJ 08542
+- Website: [1stbcpnj.org/index.html](http://www.1stbcpnj.org/index.html)
+- Contact: Brian Foster [Christian Union NOVA]
+- Email: [bmfoster@princeton.edu](mailto:bmfoster@princeton.edu)
+
+## ⛪️ Grace Community Chapel
+
+Meeting in person once a month, but outside Mercer County. Offering online services. See website.
+
+- Address: 260 Elm Ave, Teaneck, NJ 07666
+- Website: [gccnj.org](https://gccnj.org)
+- Contact: Christina Moon [Manna]
+- Email: [cm24@princeton.edu](mailto:cm24@princeton.edu)
 
 ## ⛪️ Hope Presbyterian (PCA)
 
@@ -40,19 +58,14 @@ time I arrive in Princeton until the end of the semester
 - Contact: Joshua Eastman [Christian Union NOVA]
 - Email: [jeastman@princeton.edu](mailto:jeastman@princeton.edu)
 
-## ⛪️ Princeton Alliance Church
+## ⛪️ Jacob's Well (non-denomenational)
 
-- Address: 20 Schalks Crossing Rd, Plainsboro Township, NJ 08536
-- Website: [princetonalliance.org](https://princetonalliance.org)
-- Contact: Ysabel Ayala [Christian Union NOVA]
-- Email: [yayala@princeton.edu](mailto:yayala@princeton.edu)
+Offering online services. See website.
 
-## ⛪️ Change Church
-
-- Address: 200 Ludlow Ave. Ewing, NJ 08638
-- Website: [lifechange.org/ewing/](https://lifechange.org/ewing/)
-- Contact: Tamilore Ajeigbe [Christian Union NOVA]
-- Email: [oajeigbe@princeton.edu](mailto:oajeigbe@princeton.edu)
+- Address: 2000 NJ-27, North Brunswick Township, NJ 08902
+- Website: [jacobswellnj.org](https://www.jacobswellnj.org)
+- Contact: Tyler Ashman [Christian Union NOVA]
+- Email: [tashman@princeton.edu](mailto:tashman@princeton.edu)
 
 ## ⛪️ Lutheran Church of the Messiah (Lutheran Church Missouri Synod)
 
@@ -68,61 +81,12 @@ time I arrive in Princeton until the end of the semester
 - Contact: Fisayo Adeyina [Christian Union NOVA]
 - Email: [oadeyina@princeton.edu](oadeyina@princeton.edu)
 
-## ⛪️ Calvary Chapel Living Hope
+## ⛪️ Princeton Alliance Church
 
-- Address: 329 Edgebrook Rd, Robbinsville, NJ 08691
-- Website: [takejesushome.com](https://www.takejesushome.com)
-- Contact: Patrick Huang [PCF]
-- Email: [patrick.huang@princeton.edu](mailto:patrick.huang@princeton.edu)
-
-## ⛪️ Bridge Church
-
-In-person sercives at 10am and 12pm if you register ahead of time. Also livestreaming on their website.
-
-- Address: 3752 Nottingham Way, Hamilton Square, NJ 08690
-- Website: [bridgechurchnj.org](https://www.bridgechurchnj.org/)
-- Contact: Selena Hostetler [Christian Union NOVA]
-- Email: [selenah@princeton.edu](mailto:selenah@princeton.edu)
-
-## ⛪️ St. Gregory the Great Catholic Church
-
-- Address: 4620 Nottingham Way, Hamilton Square, NJ 08690
-- Website: [stgregorythegreatchurch.org](https://stgregorythegreatchurch.org/)
-- Contact: Tiffany Barron [Manna]
-- Email: [tbarron@princeton.edu](mailto:tbarron@princeton.edu)
-
-# Outside of Mercer County and Plainsboro
-
-Attending in-person services for the following Churches is prohibited for on-campus students and any off-campus students participating in the Princeton University testing protocol for the Spring 2021 semester. You may, of course, participate in Church activities associated with these Churches that occur within Mercer and Plainsboro county boundaries and online services.
-
-## ⛪️ Jacob's Well (non-denomenational)
-
-Offering online services. See website.
-
-- Address: 2000 NJ-27, North Brunswick Township, NJ 08902
-- Website: [jacobswellnj.org](https://www.jacobswellnj.org)
-- Contact: Tyler Ashman [Christian Union NOVA]
-- Email: [tashman@princeton.edu](mailto:tashman@princeton.edu)
-
-## ⛪️ Grace Community Chapel
-
-Meeting in person once a month, but outside Mercer County. Offering online services. See website.
-
-- Address: 260 Elm Ave, Teaneck, NJ 07666
-- Website: [gccnj.org](https://gccnj.org)
-- Contact: Christina Moon [Manna]
-- Email: [cm24@princeton.edu](mailto:cm24@princeton.edu)
-
-# Online Only
-
-The following churches are offering only online services
-
-## ⛪️ First Baptist Church of Princeton
-
-- Address: 30 Green St, Princeton, NJ 08542
-- Website: [1stbcpnj.org/index.html](http://www.1stbcpnj.org/index.html)
-- Contact: Brian Foster [Christian Union NOVA]
-- Email: [bmfoster@princeton.edu](mailto:bmfoster@princeton.edu)
+- Address: 20 Schalks Crossing Rd, Plainsboro Township, NJ 08536
+- Website: [princetonalliance.org](https://princetonalliance.org)
+- Contact: Ysabel Ayala [Christian Union NOVA]
+- Email: [yayala@princeton.edu](mailto:yayala@princeton.edu)
 
 ## ⛪️ Princeton Christian Church
 
@@ -140,10 +104,20 @@ Offering Facebook Live and Vimeo services.
 - Contact: Paige Allen [Wesley Foundation]
 - Email: [peallen@princeton.edu](mailto:peallen@princeton.edu)
 
-# Map of Listed Churches
+## ⛪️ St. Gregory the Great Catholic Church
 
-- Orange: Within Mercer and Plainsboro
-- Red: Outside of Mercer and Plainsboro
-- Teal: Online Only
+- Address: 4620 Nottingham Way, Hamilton Square, NJ 08690
+- Website: [stgregorythegreatchurch.org](https://stgregorythegreatchurch.org/)
+- Contact: Tiffany Barron [Manna]
+- Email: [tbarron@princeton.edu](mailto:tbarron@princeton.edu)
+
+## ⛪️ Stone Hill (non-denomenational)
+
+- Address: 1025 Bunn Dr, Princeton, NJ 08540
+- Website: [stonehillprinceton.org](http://stonehillprinceton.org)
+- Contact: Katie Baldwin [Princeton Christian Fellowship]
+- Email: [kgb2@princeton.edu](mailto:kgb2@princeton.edu)
+
+# Map of Listed Churches
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZOjYrGSNTMPXWz7A6OHOmp_LMjXP9iJ3" width="640" height="480"></iframe>
