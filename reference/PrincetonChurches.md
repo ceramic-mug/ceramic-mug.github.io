@@ -14,8 +14,6 @@ Churches are listed in alphabetical order
 
 ## ⛪️ Bridge Church
 
-In-person sercives at 10am and 12pm if you register ahead of time. Also livestreaming on their website.
-
 - Address: 3752 Nottingham Way, Hamilton Square, NJ 08690
 - Website: [bridgechurchnj.org](https://www.bridgechurchnj.org/)
 - Contact: Selena Hostetler [Christian Union NOVA]
@@ -44,8 +42,6 @@ In-person sercives at 10am and 12pm if you register ahead of time. Also livestre
 
 ## ⛪️ Grace Community Chapel
 
-Meeting in person once a month, but outside Mercer County. Offering online services. See website.
-
 - Address: 260 Elm Ave, Teaneck, NJ 07666
 - Website: [gccnj.org](https://gccnj.org)
 - Contact: Christina Moon [Manna]
@@ -59,8 +55,6 @@ Meeting in person once a month, but outside Mercer County. Offering online servi
 - Email: [jeastman@princeton.edu](mailto:jeastman@princeton.edu)
 
 ## ⛪️ Jacob's Well (non-denomenational)
-
-Offering online services. See website.
 
 - Address: 2000 NJ-27, North Brunswick Township, NJ 08902
 - Website: [jacobswellnj.org](https://www.jacobswellnj.org)
@@ -96,8 +90,6 @@ Offering online services. See website.
 - Email: [jku@princeton.edu](mailto:jku@princeton.edu)
 
 ## ⛪️ Princeton United Methodist Church
-
-Offering Facebook Live and Vimeo services.
 
 - Address: 7 Vandeventer Ave, Princeton NJ 08542
 - Website: [https://princetonumc.org](https://princetonumc.org)
