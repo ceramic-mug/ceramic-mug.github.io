@@ -58,8 +58,8 @@ Churches are listed in alphabetical order
 
 - Address: 2000 NJ-27, North Brunswick Township, NJ 08902
 - Website: [jacobswellnj.org](https://www.jacobswellnj.org)
-- Contact: Tyler Ashman [Christian Union NOVA]
-- Email: [tashman@princeton.edu](mailto:tashman@princeton.edu)
+- Contact: Lexi Buzzini [Christian Union NOVA]
+- Email: [abuzzini@princeton.edu](mailto:abuzzini@princeton.edu)
 
 ## ⛪️ Lutheran Church of the Messiah (Lutheran Church Missouri Synod)
 
