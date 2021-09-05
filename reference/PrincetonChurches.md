@@ -73,7 +73,14 @@ Churches are listed in alphabetical order
 - Address: 26 Nassau Street, Princeton, NJ 08542
 - Website: [nassauchristian.org](https://nassauchristian.org)
 - Contact: Fisayo Adeyina [Christian Union NOVA]
-- Email: [oadeyina@princeton.edu](oadeyina@princeton.edu)
+- Email: [oadeyina@princeton.edu](mailto:oadeyina@princeton.edu)
+
+## ⛪️ Nassau Presbyterian Church (PCUSA)
+
+- Address: 61 Nassau Street, Princeton, NJ 08542
+- Website: [nassauchurch.org](http://nassauchurch.org)
+- Contact: Thomas Hontz
+- Email: [thontz@princeton.edu](mailto:thontz@princeton.edu)
 
 ## ⛪️ Princeton Alliance Church
 
@@ -92,9 +99,16 @@ Churches are listed in alphabetical order
 ## ⛪️ Princeton United Methodist Church
 
 - Address: 7 Vandeventer Ave, Princeton NJ 08542
-- Website: [https://princetonumc.org](https://princetonumc.org)
+- Website: [princetonumc.org](https://princetonumc.org)
 - Contact: Paige Allen [Wesley Foundation]
 - Email: [peallen@princeton.edu](mailto:peallen@princeton.edu)
+
+## ⛪️ Princeton University Chapel (non-denominational)
+
+- Address: Princeton University Chapel, Princeton, New Jersey 08544
+- Website: [chapel.princeton.edu](https://chapel.princeton.edu)
+- Contact: Thomas Hontz
+- Email: [thontz@princeton.edu](mailto:thontz@princeton.edu)
 
 ## ⛪️ St. Gregory the Great Catholic Church
 
@@ -102,6 +116,13 @@ Churches are listed in alphabetical order
 - Website: [stgregorythegreatchurch.org](https://stgregorythegreatchurch.org/)
 - Contact: Tiffany Barron [Manna]
 - Email: [tbarron@princeton.edu](mailto:tbarron@princeton.edu)
+
+## ⛪️ St. Paul's Parish (Catholic)
+
+- Address: 216 Nassau Street, Princeton, NJ, 08542
+- Website: [stpaulsofprinceton.org](https://stpaulsofprinceton.org)
+- Contact: Isaac Gradl
+- Email: [igradl@princeton.edu](mailto:igradl@princeton.edu)
 
 ## ⛪️ Stone Hill (non-denomenational)
 
