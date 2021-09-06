@@ -33,6 +33,13 @@ Churches are listed in alphabetical order
 - Contact: Tamilore Ajeigbe [Christian Union NOVA]
 - Email: [oajeigbe@princeton.edu](mailto:oajeigbe@princeton.edu)
 
+## ⛪️ Chapel of the Transfiguration (Orthodox)
+
+- Address: Murray-Dodge Hall, Princeton NJ 08544
+- Website: [princetonoca.org](https://princetonoca.org)
+- Contact: Fr. Dan Skvir [OCF]
+- Email: [dskvir@princeton.edu](mailto:dskvir@princeton.edu)
+
 ## ⛪️ Ecclesia
 
 - Address: Arts Council of Princeton, 102 Witherspoon St., Princeton
