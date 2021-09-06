@@ -33,6 +33,13 @@ Churches are listed in alphabetical order
 - Contact: Tamilore Ajeigbe [Christian Union NOVA]
 - Email: [oajeigbe@princeton.edu](mailto:oajeigbe@princeton.edu)
 
+## ⛪️ Ecclesia
+
+- Address: Arts Council of Princeton, 102 Witherspoon St., Princeton
+- Website: [www.ecclesianj.com](https://www.ecclesianj.com)
+- Contact: Kaylan Fomby [Christian Union NOVA]
+- Email: [kfomby@princeton.edu](mailto:kfomby@princeton.edu)
+
 ## ⛪️ First Baptist Church of Princeton
 
 - Address: 30 Green St, Princeton, NJ 08542
