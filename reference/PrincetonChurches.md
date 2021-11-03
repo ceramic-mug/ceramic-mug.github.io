@@ -75,6 +75,13 @@ Churches are listed in alphabetical order
 - Contact: Lexi Buzzini [Christian Union NOVA]
 - Email: [abuzzini@princeton.edu](mailto:abuzzini@princeton.edu)
 
+## ⛪️ Klesis Christian Fellowship
+
+- Address: 1976 Hall (Butler College), room 28
+- Website: [princeton.klesis.org](https://princeton.klesis.org/)
+- Contact: Aurora Ling [Klesis]
+- Email: [asling@princeton.edu](mailto:asling@princeton.edu)
+
 ## ⛪️ Lutheran Church of the Messiah (Lutheran Church Missouri Synod)
 
 - Address: 407 Nassau St, Princeton, NJ 08540
