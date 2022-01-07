@@ -16,7 +16,7 @@ In this post, I review my experience with the DJI Mini SE so far, share a few ra
 
 ![Drone photo](/assets/IMG_1883.jpg)
 
-I named my drone "Asher," which means "Happy" or "Blessed" in Hebrew (אָשֵׁר). אָשֵׁר is the first word in the Psalms and the name of one of the sons of Jacob ([Genesis 30:12-13](https://www.biblegateway.com/passage/?search=gen+30%3A12-13&version=NIV)). I named the drone Asher (אָשֵׁר) because of its small, gentle size and happy buzz when it flies.
+I named my drone "Asher," which means "Happy" or "Blessed" in Hebrew: אָשֵׁר . אָשֵׁר is the first word in the Psalms and the name of one of the sons of Jacob ([Genesis 30:12-13](https://www.biblegateway.com/passage/?search=gen+30%3A12-13&version=NIV)). I named the drone Asher (אָשֵׁר) because of its small, gentle size and happy buzz when it flies.
 
 I decided to paint my drone with a variety of bright colors to match its name. I used cheap acrylics from an art store, and they worked nicely.
 
