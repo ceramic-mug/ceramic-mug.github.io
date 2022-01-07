@@ -62,4 +62,16 @@ All in all, I've been really pleased by the Mini SE camera. Here's an example im
 
 The Mini SE max flight time and distance are constrained by two equally important features: battery life and controller transmission strength. The SE battery is rated for 30 minutes flight at 17kph in windless conditions. My experience is approximately 20 minutes of flight maximum (there's always wind!). The Mini SE starts screaming at you (the controller beeps loudly and rapidly) when your battery falls below 20% in flight and increasingly rapidly as the battery falls below 10%. On regular excursions, I never take the drone more than 40% battery-wise in one direction, because then it will be at 20% when I return to the takeoff location (40% out and 40% back is 80% battery consumed during flight).
 
-The second flight distance constraint is transmission strength. This is where the Mini SE is a particularly "beginner" drone. The remote control and drone use "enhanced wifi" to communicate
+The second flight distance constraint is transmission strength. This is where the Mini SE is a particularly "beginner" drone. The remote control and drone use "enhanced wifi" to communicate, which operates in the 5.725-5.850 GHz range. Ostensibly, this signal has a range of 4 kilometers if no obstructions are present between the controller and the drone. In my experience, transmission becomes intermittent around 1km. I find that angling the antannae of the remote so that they intersect perpendicularly with the direction of the drone helps to increase signal strength and becomes essential at distances greater than 3/4 km.
+
+The Mini SE flies and handles extremely well. It hovers dependably if it has strong GPS signal strength and bright lighting conditions but can drift if one or both of the GPS or lighting conditions are poor. The Mini SE controls are sensitive and the drone can therefore be tightly maneuvered through space. My only crash has been due to drift while hovering indoors (which meant both poor GPS signal and poor lighting).
+
+All in all, the Mini SE is tons of fun to fly. I find myself wanting to put it up in the air whenever the battery is fully charged.
+
+## Pictures and video
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/joshua_eastman/albums/72177720295795756" title="Drone - DJI Mini SE, &quot;Asher&quot;"><img src="https://live.staticflickr.com/65535/51804849672_92eb95c457_b.jpg" width="1024" height="768" alt="Drone - DJI Mini SE, &quot;Asher&quot;"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 👋 Salutation
+
+Thank you for stopping by and reading this post! I hope you found it interesting and informative. May the peace of Chrsit Jesus be with you.
