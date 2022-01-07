@@ -5,4 +5,4 @@ layout: post
 
 ## The Navier-Stokes Equation
 
-$$ \integral_x^y ab+c $$
+$$ \int_x^y ab+c $$
