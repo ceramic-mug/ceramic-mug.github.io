@@ -1,5 +1,5 @@
 ---
-title: 🚁 Asher: Reviewing my DJI Mini SE
+title: 🚁 New Drone! Specs, experience, and products (DJI Mini SE)
 layout: post
 category: life
 ---
@@ -12,7 +12,7 @@ Enter the DJI Mini SE! After a few discussions about drones with my Dad prior to
 
 In this post, I review my experience with the DJI Mini SE so far, share a few raw images and videos taken with the little machine, and list remarkable GIS products that can be derived from SE aerial imagery. Let's dive in!
 
-## My Drone, "Asher"
+## 🌿 My Drone, "Asher"
 
 ![Drone photo](/assets/IMG_1883.jpg)
 
@@ -20,11 +20,11 @@ I named my drone "Asher," which means "Happy" or "Blessed" in Hebrew (אָשֵׁ
 
 I decided to paint my drone with a variety of bright colors to match its name. I used cheap acrylics from an art store, and they worked nicely.
 
-## DJI Mini SE: specs and experience
+## 🚁 DJI Mini SE: specs and experience
 
 The DJI Mini SE is a *starter* drone, which means that its camera and flight capabilities are towards the lower end for consumer photography drones. That being said, the Mini SE is a DJI product (DJI is the company, see [here](https://www.dji.com/)), and DJI produces phenomenal drones; this means that the Mini SE is equipped with state-of-the art camera gimbal and rotor technology, which enables extremely smooth and trustworthy flight and photography.
 
-### Body
+### 🦾 Body
 
 The Mini SE is a [quadcopter](https://en.wikipedia.org/wiki/Quadcopter), which means that its propulsion and stabilization are managed by a set of four ("quad") [rotors](https://en.wikipedia.org/wiki/Rotor_(electric)). On the Mini SE, each rotor is attached to two propellor blades. Each blade is shaped as a tiny [airfoil](https://en.wikipedia.org/wiki/Airfoil) designed to meet the specific needs of the aircraft (see interview with propellor engineer [here](https://viewpoints.dji.com/blog/dji-propellers)). The Mini SE propellors are 4726FM, or 4.7in diameter and 2.6in pitch (which means that the propellor would travel down 2.6 inches in one revolution if traveling through a soft solid).
 
@@ -40,7 +40,7 @@ The Mavic Mini drone body is made of rigid plastic polymer; lightweight and hard
 
 I find the drone body to be well sized for a pack-it-wherever-you-go-adventuring drone. It fits easily into a small bag or tucked into your backpack and unfolds effortlessly. The drone body design is, in my opinion, phenomenal, and I expect it to last a long time. I also enjoyed painting the body of my drone and found that basic acrylic paint works well. Tons of skins are also available for purchase.
 
-### Camera
+### 📷 Camera
 
 The Mini SE has a decent camera for beginner aerial photography. I've been well pleased with the quality of both photos and videos taken with the little aircraft. The colors are especially vibrant and pleasing.
 
@@ -58,7 +58,7 @@ All in all, I've been really pleased by the Mini SE camera. Here's an example im
 
 ![Image](/assets/DJI_0266.JPG)
 
-### Flight: battery and transmission constraints
+### 🦅 Flight: battery and transmission constraints
 
 The Mini SE max flight time and distance are constrained by two equally important features: battery life and controller transmission strength. The SE battery is rated for 30 minutes flight at 17kph in windless conditions. My experience is approximately 20 minutes of flight maximum (there's always wind!). The Mini SE starts screaming at you (the controller beeps loudly and rapidly) when your battery falls below 20% in flight and increasingly rapidly as the battery falls below 10%. On regular excursions, I never take the drone more than 40% battery-wise in one direction, because then it will be at 20% when I return to the takeoff location (40% out and 40% back is 80% battery consumed during flight).
 
@@ -68,10 +68,21 @@ The Mini SE flies and handles extremely well. It hovers dependably if it has str
 
 All in all, the Mini SE is tons of fun to fly. I find myself wanting to put it up in the air whenever the battery is fully charged.
 
-## Pictures and video
+## 🌄 Sample pictures and video
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/joshua_eastman/albums/72177720295795756" title="Drone - DJI Mini SE, &quot;Asher&quot;"><img src="https://live.staticflickr.com/65535/51804849672_92eb95c457_b.jpg" width="1024" height="768" alt="Drone - DJI Mini SE, &quot;Asher&quot;"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## 🗺 Derivable GIS Products
+
+If you angle the Mini SE gimbal so that it faces straight down and fly the drone around in a small area so that it takes overlapping photos of a space from different angles and altitudes, then the resulting images can be used with OpenDroneMap (ODM, see [here](https://www.opendronemap.org/)) software to produce georeferenced products. These products include:
+
+- [Orthorectified](https://www.esri.com/about/newsroom/insider/what-is-orthorectified-imagery/) geotif (.tif)
+- 3D georeferenced textured mesh model of terrain and objects
+- 3D point cloud of terrain and objects
+- Digital elevation model (DEM)
+
+These products can be used for detailed geospatial analysis (such as surveying or municipal planning) or for tracking changes in a landscape over time (such as for forestry or agriculture).
+
 ## 👋 Salutation
 
-Thank you for stopping by and reading this post! I hope you found it interesting and informative. May the peace of Chrsit Jesus be with you.
+Thank you for stopping by and reading this post! I hope you found it interesting and informative. May the peace of Christ Jesus be with you.
