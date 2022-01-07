@@ -1,5 +1,5 @@
 ---
-title: \"Asher\:\" Reviewing my DJI Mini SE
+title: 🚁 \"Asher\:\" Reviewing my DJI Mini SE
 layout: post
 category: life
 ---
@@ -62,4 +62,4 @@ All in all, I've been really pleased by the Mini SE camera. Here's an example im
 
 The Mini SE max flight time and distance are constrained by two equally important features: battery life and controller transmission strength. The SE battery is rated for 30 minutes flight at 17kph in windless conditions. My experience is approximately 20 minutes of flight maximum (there's always wind!). The Mini SE starts screaming at you (the controller beeps loudly and rapidly) when your battery falls below 20% in flight and increasingly rapidly as the battery falls below 10%. On regular excursions, I never take the drone more than 40% battery-wise in one direction, because then it will be at 20% when I return to the takeoff location (40% out and 40% back is 80% battery consumed during flight).
 
-The second flight distance constraint is transmission strength. This is where the Mini SE is a particularly "beginner" drone. The remote and drone use "enhanced wifi" to communicate
+The second flight distance constraint is transmission strength. This is where the Mini SE is a particularly "beginner" drone. The remote control and drone use "enhanced wifi" to communicate
