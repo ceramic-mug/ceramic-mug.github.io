@@ -7,7 +7,7 @@ layout: post
 
 $$ \frac{D\vec u}{Dt} = \frac{\partial \vec u}{\partial t} + \vec u \cdot \nabla \vec u = -\frac{1}{\rho}\nabla p + \nu \nabla^2\vec u + \vec g\left(1+\frac{\rho'}{\rho}\right) - f_c \vec k \times \vec u$$
 
-Where
+Where 
 
 - $ \frac{D\vec u}{Dt} $ is the material derivative of velocity with respect to time
 - $\rho$ is density
