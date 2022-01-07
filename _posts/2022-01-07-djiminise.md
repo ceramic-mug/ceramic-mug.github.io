@@ -1,10 +1,10 @@
 ---
-title: 🚁 \"Asher\:\" Reviewing my DJI Mini SE
+title: 🚁 Asher: Reviewing my DJI Mini SE
 layout: post
 category: life
 ---
 
-Summer, 2019 was my first encounter with drones and aerial photography. I worked with [Daniel Rubenstein's](https://eeb.princeton.edu/people/daniel-rubenstein) Lab at Princeton University to capture RGB (regular photo) and NIR (Near Infrared) imagery of local farms. For this work, I operated a DJI Phantom Pro 4 v2. You can read more about that experience [here](2019-07-11-DroneWork).
+Summer, 2019 was my first encounter with drones and aerial photography. I worked with [Daniel Rubenstein's](https://eeb.princeton.edu/people/daniel-rubenstein) Lab at Princeton University to capture RGB (regular photo) and NIR (Near Infrared) imagery of local farms. For this work, I operated a DJI Phantom Pro 4 v2. You can read more about that experience [here]({% post_url 2019-07-11-DroneWork %}).
 
 I've been extremely interested in aerial imagery and drones since that time. Until now, I've worked with a variety of public aerial imagery and [GIS](https://www.esri.com/en-us/what-is-gis/overview) (Geographic Information Systems) files for environmental engineering and epidemiological applications associated with my academic studies. The breadth, quality, and accessibillity of public GIS data is frankly astounding. But I've always been interested in producing my own data at extremely high resolutions. I've also been interested in photography, and a camera with wings is very appealing.
 
