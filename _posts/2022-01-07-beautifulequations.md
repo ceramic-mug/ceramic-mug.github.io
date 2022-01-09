@@ -48,3 +48,61 @@ A special case of Euler's formula evaluated at $x = \pi$
 
 $$e^{i\pi}+1 = 0$$
 
+## Newton's Basic Equation
+
+This equation describes the motion, displacement, and acceleration of a body due to some force (or set of forces)
+
+$$ F = ma = m\frac{\partial v}{\partial t} = m\frac{\partial x^2}{\partial^2 t} $$
+
+Where
+
+- $F$ is force, in units N = kg m s$^{-2}$
+- $m$ is mass, in units kg
+- $a$ is acceleration, in units m $s^{-2}$
+- $v$ is velocity, in units m s$^{-1}$
+- $x$ is displacement, in units m
+- $t$ is time, in units s
+
+This equation can be used in all sorts of physical systems with various zeroeth, first, second-order, and higher-order forces driving the motion of a body
+
+## Fourier Sine and Cosine Series Representations of Functions
+
+Any function on the interval $0 \leq x \leq \lambda$ can be written as a sum of sines and/or cosines (same thing really, just $\pi/2$ out of phase) using the following formulation:
+
+\textbf{Sine}
+
+$$f(x) = \sum_{n=1}^{\infty}a_n\sin\left(\frac{n\pi x}{\ell}\right)$$
+
+Where
+
+$$a_n = \frac{2}{\ell}\int_0^\ell f(x)\sin\left(\frac{n\pi x}{\ell}\right)dx$$
+
+\textbf{Cosine}
+
+$$f(x) = \sum_{n=0}^{\infty}b_n\cos\left(\frac{n\pi x}{\ell}\right)$$
+
+Where
+
+$$b_0 = \frac{1}{\ell}\int_0^\ell f(x)dx$$
+
+and
+
+$$b_n = \frac{2}{\ell}\int_0^\ell f(x)\cos\left(\frac{n\pi x}{\ell}\right)dx\;\;(n \geq 1)$$
+
+\textbf{Fourier Series}
+
+$$f(x) = b_0 + \sum_{n=1}^\infty\left(\underbrace{a_n\sin(n\pi x)}_{\text{odd function}}+\underbrace{b_n\cos(n\pi x)}_{\text{even function}}\right)$$
+
+## Fourier Transform and Inverse Fourier Transform
+
+Let $f$ be the function dependent on space or time (denoted by $x$) and let $\hat f$ be the transformed function dependent on frequency (traditionally denoted by $\zeta$). Then
+
+$$\hat f(\zeta) = \int_{-\infty}^\infty f(x)e^{-2\pi i x\zeta}dx\;\; \forall \zeta \in \mathbb{R}$$
+
+and, inversely,
+
+$$f(x) = \int_{-\infty}^\infty \hat f(\zeta)e^{2\pi i x\zeta}d\zeta\;\; \forall x \in \mathbb{R}$$
+
+The Fourier transform changes a space-or-time dependent function into a frequency-dependent function. For example, if you plug an audio recording (time dependent) into a fourier transform, you would get a set of frequencies and their relative strengths in the signal back. The frequency function you get back can be inversely transformed into the original function; or, if you remove unwanted frequencies, you can inversely transform into an audio recording minus the unwanted high-pitched buzz.
+
+Fourier transforms enable modern commincation and many forms of audio and visual data processing. Truly an amazing mathematical tool!
