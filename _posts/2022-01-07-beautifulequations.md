@@ -69,7 +69,7 @@ This equation can be used in all sorts of physical systems with various zeroeth,
 
 Any function on the interval $0 \leq x \leq \lambda$ can be written as a sum of sines and/or cosines (same thing really, just $\pi/2$ out of phase) using the following formulation:
 
-\textbf{Sine}
+**Sine**
 
 $$f(x) = \sum_{n=1}^{\infty}a_n\sin\left(\frac{n\pi x}{\ell}\right)$$
 
@@ -77,7 +77,7 @@ Where
 
 $$a_n = \frac{2}{\ell}\int_0^\ell f(x)\sin\left(\frac{n\pi x}{\ell}\right)dx$$
 
-\textbf{Cosine}
+**Cosine**
 
 $$f(x) = \sum_{n=0}^{\infty}b_n\cos\left(\frac{n\pi x}{\ell}\right)$$
 
@@ -89,7 +89,7 @@ and
 
 $$b_n = \frac{2}{\ell}\int_0^\ell f(x)\cos\left(\frac{n\pi x}{\ell}\right)dx\;\;(n \geq 1)$$
 
-\textbf{Fourier Series}
+**Fourier Series**
 
 $$f(x) = b_0 + \sum_{n=1}^\infty\left(\underbrace{a_n\sin(n\pi x)}_{\text{odd function}}+\underbrace{b_n\cos(n\pi x)}_{\text{even function}}\right)$$
 
