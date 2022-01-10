@@ -67,7 +67,7 @@ This equation can be used in all sorts of physical systems with various zeroeth,
 
 ## Fourier Sine and Cosine Series Representations of Functions
 
-Any function on the interval $0 \leq x \leq \lambda$ can be written as a sum of sines and/or cosines (same thing really, just $\pi/2$ out of phase) using the following formulation:
+Any function on the interval $0 \leq x \leq \ell$ can be written as a sum of sines and/or cosines (same thing really, just $\pi/2$ out of phase) using the following formulation:
 
 **Sine**
 
