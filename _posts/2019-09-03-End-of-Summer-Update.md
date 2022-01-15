@@ -1,7 +1,7 @@
 ---
 title: ☀️ Life Update - End of Summer
 layout: post
-category: life
+tag: life
 ---
 
 The end of summer recess is coming soon. I wanted to write a quick post describing what I've been doing this summer and what I'm looking forward to in the coming school year. This is intended primarily for people who've been with me as I've grown up and moved away for school, so that they can have some sense of the direction my life is currently taking. But anyone is welcome to read, and of course anyone is welcome to get in touch with me via [email](ceramic_mug@outlook.com) if you want to chat about anything here or in any of my posts. Welcome, and enjoy!

@@ -1,7 +1,7 @@
 ---
 title: On Sin and Insecurity
 layout: post
-category: reflections
+tag: reflections
 ---
 Why is it so hard when we see others succeed at things we struggle at? Why do we scream *injustice!* on the inside whenever someone gets something we think we deserve more than them? Why do we immediately list all of the reasons why they are a terrible choice for the job or the team and why we are so much better? Why do we do this?
 

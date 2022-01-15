@@ -1,7 +1,7 @@
 ---
 title: 🚁 New Drone! Specs, experience, and products (DJI Mini SE)
 layout: post
-category: life
+tag: life
 ---
 
 Summer, 2019 was my first encounter with drones and aerial photography. I worked with [Daniel Rubenstein's](https://eeb.princeton.edu/people/daniel-rubenstein) Lab at Princeton University to capture RGB (regular photo) and NIR (Near Infrared) imagery of local farms. For this work, I operated a DJI Phantom Pro 4 v2. You can read more about that experience [here]({% post_url 2019-07-11-DroneWork %}).

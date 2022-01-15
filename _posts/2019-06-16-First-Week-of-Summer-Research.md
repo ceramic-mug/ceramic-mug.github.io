@@ -1,7 +1,7 @@
 ---
 title: "🌱 First Week of Research"
 layout: post
-category: life
+tag: life
 ---
 I drove up to Princeton last Saturday, the 8th, in my newly fixed-up little red Ford Ranger. It was an awesome 10-hr ride through WV, Pennsylvania, some Maryland, and New Jersey. I made a point to only stop at gas stations along the way (packed some leftover pizza and other snacky things to munch on along the way) and thoroughly enjoyed stopping every couple of hundred miles, stretching my legs in a new landscape, refilling the car's tank and my own (coffee), and running through the regular oil, power-steering, and brake-fluid check. My phone was mounted on the windshield and plugged in so I had easily-visible directions the whole way. I jammed to local radio stations that faded in and out as I crossed county lines. The most notable part of the trip was a stretch of insterstate and state highway after turning East just below Morgantown where the road's steepness was 5% or greater for a good couple of hundred miles. My little pickup really struggled on the uphills and it's cruise-control sometimes dropped out if it was having to try too hard to keep the speed, so I was constantly having to downshift and watch out for high-powered cars flying by and lumbering 16-wheelers crawling in the right lane.
 

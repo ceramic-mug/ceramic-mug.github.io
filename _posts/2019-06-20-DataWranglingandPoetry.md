@@ -1,7 +1,7 @@
 ---
 title: 🌎 Reflections on Science and Computation
 layout: post
-category: reflections
+tag: reflections
 ---
 
 Science is beautiful. It's built on two fundamental realities of the created universe--math and logic--which are what we refer to when we talk about "order" or "structure." The Christian believes that this order is a reflection of God's character, and sees God making order out of chaos at the very beginning:

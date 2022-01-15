@@ -1,7 +1,7 @@
 ---
 title: "🧼 College Quarantine and Isolation"
 layout: post
-category: life
+tag: life
 ---
 
 Lockdown. Quarantine. Isolation. Testing. Emergency. Public Health.

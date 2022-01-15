@@ -1,7 +1,7 @@
 ---
 title: 📋 Work and Evening Fellowship
 layout: post
-category: life
+tag: life
 ---
 
 After hitting snooze on my alarm clock a bajillion times this morning, I got up, got ready, and brewed myself a cup of coffee. I didn't have time to make breakfast (and our dorm building's kitchen was probably full), so I grabbed a leaf of Swiss Chard out of our little fridge and ran to the lab. The next few hours (9-12) were spent looking through a low-powered microscope at sticky-traps full of bugs, trying to identify salient features of the insects and enter those into a spreadsheet. I ran back to the dorm, made myself some lunch, threw the leftovers into a tupperware, and then went back to the lab for our afternoon fieldwork session.

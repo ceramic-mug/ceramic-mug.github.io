@@ -1,7 +1,7 @@
 ---
 title: 🔬 On the Usefulness of Conducting Research while Young and Inexperienced
 layout: post
-category: reflections
+tag: reflections
 ---
 
 I am young and inexperienced. Whether or not that gives me the credentials to speak to the title of this post, I can't be sure. What I can be sure of, though, is that I've come away from this summer appreciating the opportunity I had to conduct research. I want to tell you why.

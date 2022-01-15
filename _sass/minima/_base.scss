@@ -187,8 +187,6 @@ pre {
   }
 }
 
-
-
 /**
  * Wrapper
  */
@@ -269,4 +267,12 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+.tag {
+  background-color:rgb(194, 122, 13);
+  color:white;
+  padding:5px;
+  border-radius: 5pt;
+  text-align: center;
 }

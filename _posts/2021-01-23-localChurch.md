@@ -1,7 +1,7 @@
 ---
 title: ⛪️ The Significance of the Local Church for College Students
 layout: post
-category: reflections
+tag: reflections
 ---
 *An opening caveat: I help lead the Princeton University campus ministry called Christian Union NOVA, and believe participation in campus ministry is a significant blessing for Christian college students and important for college-age faith formation. This blog is not meant to denigrate college ministries but instead articulate my beliefs about the local Church in the context of college life.*
 

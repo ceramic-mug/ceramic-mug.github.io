@@ -10,16 +10,9 @@ GEM
       http_parser.rb (~> 0.6.0)
     emoji_for_jekyll (0.2.3)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-java)
-    eventmachine (1.2.7-x64-mingw32)
-    eventmachine (1.2.7-x86-mingw32)
     ffi (1.14.2)
-    ffi (1.14.2-java)
-    ffi (1.14.2-x64-mingw32)
-    ffi (1.14.2-x86-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    http_parser.rb (0.6.0-java)
     i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.0)
@@ -56,6 +49,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -66,8 +63,6 @@ GEM
     rouge (3.26.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
-      ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -87,7 +82,8 @@ DEPENDENCIES
   jekyll-feed
   jekyll-jupyter-notebook
   jekyll-seo-tag
+  minima
   webrick
 
 BUNDLED WITH
-   2.2.6
+   2.2.32

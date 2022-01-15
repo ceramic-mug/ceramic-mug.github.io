@@ -1,7 +1,7 @@
 ---
 title: ❄️ Come Heavy Snow
 layout: post
-category: life
+tag: life
 ---
 
 Listen: morning has come and I

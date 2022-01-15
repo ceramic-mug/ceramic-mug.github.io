@@ -1,7 +1,7 @@
 ---
 title: Grandfathers
 layout: post
-category: reflections
+tag: reflections
 ---
 
 ![photo](/assets/DJI_0279.JPG)
