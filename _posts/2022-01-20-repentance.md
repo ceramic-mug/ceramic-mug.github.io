@@ -36,7 +36,7 @@ A shame which locked his mind in flight.
 "Just like this dying flame  
 Which before us now sends embers up.  
 Alone and scared, and worried now,  
-About that which you spoke, the same;
+About that which you spoke, the same;  
 That shame which makes me drink death's cup."  
 
 Silent sat they 'till one red coal  
