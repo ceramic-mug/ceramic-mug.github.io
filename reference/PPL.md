@@ -7,8 +7,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Legs #1
 
-| Squat               | 3x4 @ 80%     |
+| Exercise | Amount |
 | ------------------- | ------------- |
+| Squat               | 3x4 @ 80%     |
 | Romanian Deadlift   | 3x10          |
 | Single Leg Press    | 3x15          |
 | Leg Extensions      | 3x10-12, drop |
@@ -19,8 +20,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Push #1
 
+| Exercise | Amount |
+| ------------------- | ------------- |
 | Bench                            | 3x8 @ 72.5% |
-| -------------------------------- | ----------- |
 | Machine Shoulder Press or Arnold | 3x12        |
 | Dip                              | 3x12-15     |
 | Skullcrusher                     | 3x8-10      |
@@ -29,8 +31,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Pull #1
 
+| Exercise | Amount |
+| ------------------- | ------------- |
 | Weighted Pull-up      | 3x6     |
-| --------------------- | ------- |
 | Cable Row             | 3x10-12 |
 | Cable Pullover        | 3x15-20 |
 | Hammer Cheat Curl     | 3x8-10  |
@@ -38,8 +41,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Legs #2
 
+| Exercise | Amount |
+| ------------------- | ------------- |
 | Deadlift                | 3x3 @ 80-85% |
-| ----------------------- | ------------ |
 | Hack Squat              | 3x10-12      |
 | Single-Leg Hip Thrust   | 2x15         |
 | Nordic Ham Curl         | ?            |
@@ -49,8 +53,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Push #2
 
+| Exercise | Amount |
+| ------------------- | ------------- |
 | Overhead Press             | 4x4 @ 80%     |
-| -------------------------- | ------------- |
 | Close-Grip Bench           | 3x10          |
 | Cable Crossover            | 3x10-12, drop |
 | Overhead Triceps Extension | 3x10-12       |
@@ -59,8 +64,9 @@ This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push P
 
 ## Pull #2
 
+| Exercise | Amount |
+| ------------------- | ------------- |
 | Omni-grip Pulldown       | 3x10-12 |
-| ------------------------ | ------- |
 | Chest-Supported Row      | 3x10-12 |
 | Rope Facepull            | 3x15-20 |
 | Incline DB Shrug         | 3x15-20 |
