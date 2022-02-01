@@ -1,5 +1,5 @@
 ---
-title: Jeff Nippard's Push-Pull-Legs 6-day Routine
+title: 💪 Jeff Nippard's Push-Pull-Legs 6-day Routine
 layout: post
 ---
 
