@@ -1,6 +1,7 @@
 ---
 title: 💪 Jeff Nippard's Push-Pull-Legs 6-day Routine
 layout: post
+exclude: true
 ---
 
 This workout was adapted from Jeff Nippard's YouTube video ["The Smartest Push Pull Legs Routine 2022 (Fully Explained)"](https://youtu.be/qVek72z3F1U)
