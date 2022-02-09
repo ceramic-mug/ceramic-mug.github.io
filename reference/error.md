@@ -55,7 +55,7 @@ Where, for clarity, $a$ is the intercept and $b$ is the slope of the regression.
 
 ### Parameter error estimation
 
-The set of residuals $E$ can be defined as
+The set of residuals $E$ can be defined as the set of differences between the original $y$-values and the $y$-values estimated by the regression using the original $x$-values as arguments:
 
 $$
 E = \{\epsilon_i : \epsilon_i = y_i - \left(a + bx_i\right), \forall (x_i, y_i)\}
