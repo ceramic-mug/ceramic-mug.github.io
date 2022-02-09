@@ -44,7 +44,7 @@ $$
 to a set of 2D data of $n$ samples. Then parameters $a$ and $b$ can be estimated using the following equations:
 
 $$
-a = \frac{\sum_i x_i^2\sum_i y_i - \sum_i x_i \sum_i y_i}{n\sum_i x_i^2 - \left(\sum_i x_i\right)^2}
+a = \frac{\sum_i x_i^2\sum_i y_i - \sum_i x_i \sum_i x_i y_i}{n\sum_i x_i^2 - \left(\sum_i x_i\right)^2}
 $$
 
 $$
