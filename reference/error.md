@@ -16,13 +16,13 @@ $$
 
 Where $\bar x$ is the mean, $x_i$ is the $i$-th measurement, and $n$ is the number of measurements.
 
-If the true standard error $\sigma$ or variance $\sigma^2$ for the population is known, and if the mean $\bar x$ was estimated from $n$ samples, then variance $V$ can be calculated as
+If the true standard error $\sigma$ or variance $\sigma^2$ for the population is known, and if the mean $\bar x$ was estimated from $n$ samples, then variance of the mean $\sigma_{\bar x}^2$ can be calculated as
 
 $$
 \sigma_{\bar x}^2 = \frac{\sigma^2}{n}
 $$
 
-Or if the variance $S^2$ is to be estimated, then
+If the variance $S^2$ of the population is not known and must be estimated (as in most cases), then use the following equation:
 
 $$
 S^2 = \frac{1}{n-1}\sigma_i \left(x_i-\bar x\right)^2
