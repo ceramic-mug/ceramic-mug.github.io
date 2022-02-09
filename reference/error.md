@@ -55,16 +55,16 @@ Where, for clarity, $a$ is the intercept and $b$ is the slope of the regression.
 
 ### Parameter error estimation
 
-The set of residuals $\Epsilon$ can be defined as
+The set of residuals $E$ can be defined as
 
 $$
-\Epsilon = \{\epsilon_i : \epsilon_i = y_i - \left(a + bx_i\right), \forall (x_i, y_i)\}
+E = \{\epsilon_i : \epsilon_i = y_i - \left(a + bx_i\right), \forall (x_i, y_i)\}
 $$
 
 Then the variance of the regression model can be calculated as follows:
 
 $$
-S_{y/x}^2 = \frac{1}{n-2} \sum_i \epsilon_i^2,\;\forall \epsilon_i\in\Epsilon
+S_{y/x}^2 = \frac{1}{n-2} \sum_i \epsilon_i^2,\;\forall \epsilon_i\inE
 $$
 
 And the variance of the slope $b$:
