@@ -1,6 +1,6 @@
 ---
 title: 🤏 Calculating Error and Parameter Estimation
-layout: standalone
+layout: page
 exclude: true
 ---
 
