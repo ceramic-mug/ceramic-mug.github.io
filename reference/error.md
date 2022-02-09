@@ -64,7 +64,7 @@ $$
 Then the variance of the regression model can be calculated as follows:
 
 $$
-S_{y/x}^2 = \frac{1}{n-2} \sum_i \epsilon_i^2,\;\forall \epsilon_i\inE
+S_{y/x}^2 = \frac{1}{n-2} \sum_i \epsilon_i^2,\;\forall \epsilon_i\in E
 $$
 
 And the variance of the slope $b$:
