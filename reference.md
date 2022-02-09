@@ -8,3 +8,4 @@ Reference pages:
 3. [Local Princeton Churches]({{ "../reference/PrincetonChurches" | relative_url }})
 4. [Christian Union NOVA Resources]({{ "../reference/NOVA" | relative_url }})
 5. [Push-Pull-Legs workout]({{ "../reference/PPL" | relative-url }})
+6. [Error analysis and regression calculations]({{ "../reference/error" | relative-url }})
