@@ -25,7 +25,7 @@ $$
 If the variance $S^2$ of the population is not known and must be estimated (as in most cases), then use the following equation:
 
 $$
-S^2 = \frac{1}{n-1}\sigma_i \left(x_i-\bar x\right)^2
+S^2 = \frac{1}{n-1}\sum_i \left(x_i-\bar x\right)^2
 $$
 
 Where in all these equations:
