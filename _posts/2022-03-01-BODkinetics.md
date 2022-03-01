@@ -106,7 +106,7 @@ $$
 BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol } \ce{O2}}{(3\times 12)+7+16+1\;\text{g/mol propanol}} = 2.4\;\text{g } \ce{O2}\text{/g propanol}
 $$
 
-Which, in this case, gives us mass $O_2$ requirements per unit mass propanol. **Per-unit-volume BOD can be computed by multiplying by the concentration of propanol in the solution.**
+Which, in this case, gives us mass $\ce{O2}$ requirements per unit mass propanol. **Per-unit-volume BOD can be computed by multiplying by the concentration of propanol in the solution.**
 
 ### Determining cBOD and nBOD
 
@@ -117,19 +117,19 @@ If, however, the molecule of interest has Nitrogen as well as Carbon, then total
 Suppose the molecule has composition
 
 $$
-\ce{CaHbNcOd}
+\ce{C_aH_bN_cO_d}
 $$
 
 To determine **cBOD (carbonaceous BOD)**, solve the following mass balance where **only Carbon is oxidized and where Nitrogen remains in reduced form**:
 
 $$
-\ce{\mathbf{A}CaHbNcOd} + \mathbf{B}O_2 -> \mathbf{C}CO2 + \mathbf{D}H20 + \mathbf{E}NH3
+\ce{\mathbf{A}C_aH_bN_cO_d + \mathbf{B}O_2 -> \mathbf{C}CO2 + \mathbf{D}H20 + \mathbf{E}NH3}
 $$
 
 Then, to determine **total BOD (cBOD + nBOD)**, solve the following mass balance where **both Carbon and Nitrogen are oxidized**:
 
 $$
-\ce{\mathbf{F}CaHbNcOd} + \mathbf{G}O_2 -> \mathbf{H}CO2 + \mathbf{I}H20 + \mathbf{J}HNO3
+\ce{\mathbf{F}C_aH_bN_cO_d + \mathbf{G}O_2 -> \mathbf{H}CO2 + \mathbf{I}H20 + \mathbf{J}HNO3}
 $$
 
 Convert stochiometric coefficients $\{A,B,F,G\}$ to mass using molecular mass of each compound as done in propanol to determine total BOD (using F and G) and cBOD (using A and B). Then nBOD can be determined by subtracting cBOD from total BOD
