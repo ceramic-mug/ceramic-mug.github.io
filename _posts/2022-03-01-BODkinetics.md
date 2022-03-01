@@ -103,7 +103,43 @@ $$
 This stochiometric balance can be converted to BOD by computing the respective masses of required $\ce{O2}$ and propanol:
 
 $$
-BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol } \ce{O2}}{(3\times 12)+7+16+1\;\text{g/mol propanol}}
+BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol } \ce{O2}}{(3\times 12)+7+16+1\;\text{g/mol propanol}} = 2.4\;\text{g } \ce{O2}\text{/g propanol}
 $$
 
-Which, in this case, gives us mass $O_2$ requirements per unit mass propanol. **Per-unit-volume BOD can be computed using the concentration of propanol in the solution.**
+Which, in this case, gives us mass $O_2$ requirements per unit mass propanol. **Per-unit-volume BOD can be computed by multiplying by the concentration of propanol in the solution.**
+
+### Determining cBOD and nBOD
+
+The above example calculation for propanol gives theoretic total BOD as well as carbonaceous BOD. This is because total BOD = cBOD for an organic molecule with no Nitrogen. Oxidation requirements are purely carbon-related, or carbonaceous.
+
+If, however, the molecule of interest has Nitrogen as well as Carbon, then total BOD can be split into cBOD and nBOD. To determine nBOD and cBOD from BOD, perform separate mass balances for the cases where Nitrogen in the molecule is not oxidized and where Nitrogen in the molecule is oxidized.
+
+Suppose the molecule has composition
+
+$$
+\ce{CaHbNcOd}
+$$
+
+To determine **cBOD (carbonaceous BOD)**, solve the following mass balance where **only Carbon is oxidized and where Nitrogen remains in reduced form**:
+
+$$
+\ce{\mathbf{A}CaHbNcOd} + \mathbf{B}O_2 -> \mathbf{C}CO2 + \mathbf{D}H20 + \mathbf{E}NH3
+$$
+
+Then, to determine **total BOD (cBOD + nBOD)**, solve the following mass balance where **both Carbon and Nitrogen are oxidized**:
+
+$$
+\ce{\mathbf{F}CaHbNcOd} + \mathbf{G}O_2 -> \mathbf{H}CO2 + \mathbf{I}H20 + \mathbf{J}HNO3
+$$
+
+Convert stochiometric coefficients $\{A,B,F,G\}$ to mass using molecular mass of each compound as done in propanol to determine total BOD (using F and G) and cBOD (using A and B). Then nBOD can be determined by subtracting cBOD from total BOD
+
+$$
+nBOD = BOD_{tot} - cBOD
+$$
+
+## Note on theoretical vs. observed BOD
+
+Theoretical BOD (computed using stochiometric balances like those above) will *always* be higher than observed BOD. This is due to some electrons from Carbon and Nitrogen being used for microbial cel synthesis and maintainence instead of being completely oxidized for energy. Therefore, to adjust for cell synthesis and maintenance, engineers often multiply calculations of theoretic total BOD, cBOD, and nBOD by a factor of 0.92. This 0.92 factor assumes that approximately 8% of electrons from inputs are channeled into cell maintainance and synthesis instead of being transferred to atmospheric oxygen and therefore do not contribue to oxygen demand.
+
+So, when you compute theoretical total BOD, cBOD, and nBOD, **multiply your result by 0.92 to get a good sense of what you would observe in lab**.
