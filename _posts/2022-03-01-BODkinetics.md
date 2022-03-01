@@ -91,17 +91,17 @@ $$
 Then write the mass balance
 
 $$
-\ce{AC3H7OH + BO2 -> CCO2 + DH2O}
+\ce{\mathbf{A}C3H7OH + \mathbf{B}O2 -> \mathbf{C}CO2 + \mathbf{D}H2O}
 $$
 
-And solve for stochiometric coefficients by balancing Carbon, then Oxygen, then Hydrogen. For propanol we arrive at the following stochiometric coefficients:
+And solve for stochiometric coefficients A,B,C, and D by balancing Carbon, then Oxygen, then Hydrogen. For propanol we arrive at the following stochiometric coefficients:
 
 $$
-\ce{C3H7OH + 4.5O2 -> 3CO2 + 4H2O}
+\ce{C3H7OH + {4.5}O2 -> 3CO2 + 4H2O}
 $$
 
 This stochiometric balance can be converted to BOD by computing the respective masses of required $\ce{O2}$ and propanol:
 
 $$
-BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol}}{}
+BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol} \ce{O2}}{(3;\text{mol C}\times12\text{g/mol C})+(7;\text{mol H}\times1\text{g/mol H})+(1;\text{mol O}\times16\text{g/mol O})+(1;\text{mol H}\times1\text{g/mol H})}
 $$
