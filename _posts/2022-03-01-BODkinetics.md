@@ -1,5 +1,5 @@
 ---
-title: 👨‍🔬 Biochemical Oxygen Demand\: Carbonaceous, Nitrogenous, and kinetics
+title: 👨‍🔬 Biochemical Oxygen Demand kinetics, measurement, and analytical calculation
 tag: science
 layout: post
 ---
@@ -98,4 +98,10 @@ And solve for stochiometric coefficients by balancing Carbon, then Oxygen, then 
 
 $$
 \ce{C3H7OH + 4.5O2 -> 3CO2 + 4H2O}
+$$
+
+This stochiometric balance can be converted to BOD by computing the respective masses of required $\ce{O2}$ and propanol:
+
+$$
+BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol}}{}
 $$
