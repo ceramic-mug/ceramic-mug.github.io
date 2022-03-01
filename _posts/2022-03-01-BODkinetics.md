@@ -1,5 +1,5 @@
 ---
-title: 👨‍🔬 Biochemical Oxygen Demand: Carbonaceous, Nitrogenous, and kinetics
+title: 👨‍🔬 Biochemical Oxygen Demand\: Carbonaceous, Nitrogenous, and kinetics
 tag: science
 layout: post
 ---
@@ -92,4 +92,10 @@ Then write the mass balance
 
 $$
 \ce{AC3H7OH + BO2 -> CCO2 + DH2O}
+$$
+
+And solve for stochiometric coefficients by balancing Carbon, then Oxygen, then Hydrogen. For propanol we arrive at the following stochiometric coefficients:
+
+$$
+\ce{C3H7OH + 4.5O2 -> 3CO2 + 4H2O}
 $$
