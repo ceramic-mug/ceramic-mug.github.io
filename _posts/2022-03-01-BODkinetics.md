@@ -103,5 +103,7 @@ $$
 This stochiometric balance can be converted to BOD by computing the respective masses of required $\ce{O2}$ and propanol:
 
 $$
-BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol} \ce{O2}}{(3;\text{mol C}\times12\text{g/mol C})+(7;\text{mol H}\times1\text{g/mol H})+(1;\text{mol O}\times16\text{g/mol O})+(1;\text{mol H}\times1\text{g/mol H})}
+BOD_{tot,propanol} = \frac{4.5\;\text{mol}\times32\;\text{g/mol } \ce{O2}}{(3\times 12)+7+16+1\;\text{g/mol propanol}}
 $$
+
+Which, in this case, gives us mass $O_2$ requirements per unit mass propanol. **Per-unit-volume BOD can be computed using the concentration of propanol in the solution.**
