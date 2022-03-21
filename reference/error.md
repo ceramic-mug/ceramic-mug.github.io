@@ -70,7 +70,7 @@ $$
 And the variance of the slope $b$:
 
 $$
-S^2_b = \frac{S_{x/y}^2}{\sum_i\left(x_i-\bar x\right)^2}
+S^2_b = \frac{S_{y/x}^2}{\sum_i\left(x_i-\bar x\right)^2}
 $$
 
 And the variance of the intercept $a$:
