@@ -3,6 +3,9 @@ title: 🔬 Wastewater Treatment, Useful Terms and Concepts
 layout: post
 ---
 
+<!-- for chemical equation formatting -->
+$\require{mhchem}$ 
+
 ## Nitrification
 
 Adapted from [EPA Wastewater Management Fact Sheet](https://www.epa.gov/sites/default/files/2019-08/documents/denitrifying_filters_fact_sheet_p100il79.pdf)
