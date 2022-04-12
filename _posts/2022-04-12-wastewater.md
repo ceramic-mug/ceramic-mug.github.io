@@ -10,7 +10,7 @@ $\require{mhchem}$
 
 Adapted from [EPA Wastewater Management Fact Sheet](https://www.epa.gov/sites/default/files/2019-08/documents/denitrifying_filters_fact_sheet_p100il79.pdf)
 
-Nitrification refers to the conversion of ammonium $\ce{NH3}$ to nitrite $\ce{NO2-}$ and nitrate $\ce{NO3-}$. This process generally occurs in two steps orchestrated by different species of bacteria.
+Nitrification refers to the conversion of ammonium $\ce{NH3}$ to nitrite $\ce{NO2-}$ and nitrate $\ce{NO3-}$. This process generally occurs in two steps orchestrated by different species of bacteria. **This process requires oxygen** and therefore only occurs in aerobic environments.
 
 ### Step 1: $\ce{NH3 -> NO2-}$
 
@@ -51,3 +51,5 @@ Which combine in the overall reaction scheme
 $$
 \ce{6NO3- + 5CH3OH -> 5CO2 + 3N2 + 7H2O + 6OH-}
 $$
+
+**Denitrification does not require oxygen** and typically occurs in an anoxic (oxygen-scarce) chamber of a wastewater treatment plant in order to cultivate denitryifying bacteria.
