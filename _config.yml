@@ -25,7 +25,7 @@ facebook_username: josh.eastman.31
 show_excerpts: FALSE
 # Build settings
 markdown: kramdown
-theme: joshGPT
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
