@@ -43,7 +43,19 @@ This world would be;
 So agrees the preacher  
 In old Ecclesiaste;  
 Vanity of vanities! All must be  
-If all was up to you and me.
+If all was up to you and me.  
+So what is there to do?  
+Throw up the hands,  
+Lay down the head,  
+And mourn the gloomy night?  
+Where now can hope  
+And future both be found?  
+Where from wrong  
+Can we find right?  
+Where can we, if blind,  
+Find healing for our sight  
+And walk together towards  
+A new day's light?
 
 But wait, and look:  
 Do you, too, see  
