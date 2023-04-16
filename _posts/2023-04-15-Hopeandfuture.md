@@ -3,7 +3,7 @@ title: ✍️ Hope and Future
 layout: post
 ---
 
-![Jesus on water](../assets/jesus_on_water.png)
+![Jesus on water]({{ "assets/jesus_on_water.png" | relative_url }})
 
 When I, weary, reflect upon  
 The longings of the human heart--  
