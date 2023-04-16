@@ -52,7 +52,7 @@ Like potter's vessels thrown upon the land,
 So too will evil break beneath His hand  
 Still scarred from Calvary's hill;  
 Justice and peace writ large upon His thigh  
-And fiercest love ablaze in piercing eye;
+And fiercest love ablaze in piercing eye;  
 He came to set the captives free--  
 As captives all in death's strong hand we  
 Languish now as in His day if  
