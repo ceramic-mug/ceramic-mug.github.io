@@ -58,7 +58,7 @@ As captives all in death's strong hand we
 Languish now as in His day if  
 Trusting not His outstretched hand  
 We go our separate way--  
-And with His blood to stay,  
+And with His blood to stay  
 The wrath of God.
 
 So seeing I, in fear and hope,  
