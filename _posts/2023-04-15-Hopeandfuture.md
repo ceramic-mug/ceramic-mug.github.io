@@ -3,6 +3,8 @@ title: ✍️ Hope and Future
 layout: post
 ---
 
+![Jesus on water](../assets/jesus_on_water.png)
+
 When I, weary, reflect upon  
 The longings of the human heart--  
 Sometimes so far they seem to be,  
