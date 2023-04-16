@@ -1,0 +1,73 @@
+I"V"<p>In previous posts, I’ve mentioned that I’m working for the <a href="https://environment.princeton.edu/">Princeton Environmental Institute’s</a> Farm Project this summer. I primarily contribute to the project by operating a drone and analyzing the graphical data produced by each flight. This post provides some details about the specific drone, software, operating procedures, and image processing tools I’ve used to meet our goals.</p>
+
+<h2 id="-dji-phantom-pro-4">👻 DJI Phantom Pro 4</h2>
+
+<center>
+<img src="https://technikblog.ch/wp-content/uploads/2016/11/DJI-Phantom-4-Pro-front.jpg" alt="drone" width="300" align="center" />
+</center>
+
+<p>​	I’m flying the <a href="https://www.dji.com/phantom-4-pro">DJI Phantom Pro 4</a>, which comes equipped with all the bells and whistles that make it fly properly and a 20Mp 4096×2160 camera, which takes beautiful aerial photos. I tote the drone and it’s remote control around in a snazzy silver tough-styrofoam case with a clasp. To set up the drone for flight, I just pop in a rear-mounted rechargeable battery and twist on each of the four propellors. Once the drone is turned on (by double-clicking and holding a button on the battery), the drone runs through a self-diagnostic, testing each of the four propellors and the camera gimbal (mount and rotating motor) while on the ground. After this short test, the drone sends a go-ahead signal to its remote control, and I have control.</p>
+
+<p>​	The remote is also pretty cool. The vast majority of manual flight is accomplished with two large joysticks on the front of the remote, the left controlling altitude and yaw (twisting around like vinyl on a turntable) and the right controlling pitch (leaning left, right, forward, backward). The remote connects via cable to my phone, which, when I’m running the <a href="https://www.dji.com/goapp">DJI Go app</a>, live-streams the camera signal surrounded by system information (battery life, altitude, signal strength, GPS strength, …). Flying is simple and fun, and there’s little risk of causing the drone to tumble out of the sky because of its built-in stabilizers. The real risk is obstacles, which I don’t often encounter because I’m flying over farm-fields.</p>
+
+<h2 id="-sentera-fieldagent️">🌽 Sentera FieldAgent™️</h2>
+
+<p>​	Although the <a href="https://www.dji.com/goapp">DJI Go app</a> is really awesome and manually controlling the drone is easy, it would be incredibly difficult to systematically capture evenly spaced aerial photos of the farm-fields manually. Moreover, the Phantom’s camera takes standard <a href="https://en.wikipedia.org/wiki/RGB_color_model">RGB</a> photos, which, though beautiful, don’t give us too much information about crop health. To overcome the first obstacle, and to produce worthwhile data, the Farm Project subscribes to <a href="https://sentera.com/fieldagent-platform/">Sentera FieldAgent</a>, a platform for agricultural remote-sensing.</p>
+
+<p>​	The analytical advantage of Sentera’s FieldAgent platform comes via a second mounted camera. This camera, however, measures “<a href="https://en.wikipedia.org/wiki/Light">light</a>” (electromagnetic waves) in the near-infrared (NIR) spectrum, which the human eye can’t quite see. This NIR data can be computed with the drone’s red-band data to produce an accurate representation of plant-health (<a href="https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index">based on leaf reflectance</a>) at a pixel-resolution scale. The NIR sensor itself is a little 5cm x 8cm flat green rectangle with a volcano-like bulge and lens. It’s cute.</p>
+
+<p>​	A FieldAgent subscription also gives us access to a mobile app that simplifies the drone operation. With the FieldAgent app, the process of flying a drone over a field and capturing near-perfect evenly spaced pictures looks like this:</p>
+
+<ol>
+  <li>Twist the propellors onto the drone, turn it and the controller on, and let the drone run through it’s self diagnostic</li>
+  <li>Plug my phone into the controller</li>
+  <li>Launch the FieldAgent app</li>
+  <li>Give the app a few seconds to connect to the drone</li>
+  <li>Navigate on a map within the app to my current location (via Google Maps satellite imagery)</li>
+  <li>Tap on a little icon of the drone to start a planning session</li>
+  <li>Long-press corners of the field I want to fly over in order</li>
+  <li>Make sure the altitude (I fly at 200ft) and overlap settings (I use 80%) are set correctly</li>
+  <li>Hit the launch button</li>
+  <li>Sit back and relax for the next 10 minutes</li>
+  <li>Guide the drone manually down for landing</li>
+</ol>
+
+<p>The whole process is remarkably easy. Most of the time I just lounge and keep one eye on the drone in the sky as the app controls the drone and reports its progress back to me live. The only harrowing moments are when I’m controlling the drone’s descent and a gust of wind hits it, but I have enough video game experience to be quick on the joysticks in those moments and bring it back to a steady descent.</p>
+
+<p>​	All the images are written to two micro-SD cards, one in the infrared camera and one in the drone body. When I get back to our lab, I pop the SD cards one-by-one into our lab computer and load the images into the FieldAgent desktop app, which, using location <a href="https://en.wikipedia.org/wiki/Metadata">metadata</a>, correctly tiles the images on a satellite map viewer so I can see an immediate mosaic of the flight just performed.</p>
+
+<p>​	The raw tiling, however, has a lot of overlap since I set the overlap setting to 80%. Jittering, wind, and not 100% perfect drone positioning during flight also causes aberrations in the locations of each photo on the QuickTile interface. So, to put all these photos together into a truly beautiful, singular image, I use a truly epic open-source software called <a href="https://www.opendronemap.org/">OpenDroneMap</a>.</p>
+
+<h2 id="-a-quick-opendronemap-intro">🗺 A Quick OpenDroneMap Intro</h2>
+
+<p>OpenDroneMap (ODM) takes all the images of any flight you complete with a drone, whether those images were taken manually or with a software like the FieldAgent app, and stitches them together into:</p>
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Orthophoto">Orthorectified geotiffs</a> (2D)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Structure_from_motion">Textured 3-D Models</a></li>
+</ol>
+
+<p>So take the images, dump them into a folder, run a command in your favorite <a href="https://en.wikipedia.org/wiki/Terminal_emulator">terminal emulator</a>, and boom! Five to ten hours later (for a couple hundred photos), you’ve got a whole folder structure filled with beautiful models of whatever it was you took pictures of. And then, because ODM is open source, all that great output is yours to play with!</p>
+
+<p>​	The only caveat to OpenDroneMap is that it is usually run as a container within <a href="https://www.docker.com/">Docker</a>, so you would have to set that up too if you want to give this a shot. But follow the documentation and it shouldn’t be so bad.</p>
+
+<p>​	If you do have Docker installed, and you want to give ODM a shot at stitching together a pile of drone photos you’ve got laying around, just follow these steps:</p>
+
+<ol>
+  <li>Make a new project directory for ODM to work in</li>
+  <li>Within that directory, create another directory named “images”</li>
+  <li>Copy all of your drone images (from a single flight) into that “images” folder</li>
+  <li>In your terminal emulator, type the following (replace “/my/project” with the full path to your project folder, <em>not the image folder</em>):</li>
+</ol>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-ti</span> <span class="nt">--rm</span> <span class="nt">-v</span> /my/project:/datasets/code opendronemap/odm <span class="nt">--project-path</span> /datasets <span class="nt">--use-opensfm</span>
+</code></pre></div></div>
+
+<p>​	Then, if your Docker is configured properly, it should recognize itself that it needs to download OpenDroneMap, which it will do on it’s own, and then it will begin stitching your images together! Just make sure your path to your project folder (replacing “/my/project” in the above command) is correct. I had a lot of trouble getting this to work when I had a typo in that path.</p>
+
+<p>​	I would love to share one of the produced images with you, but since they’re of private farm property, I’m afraid I’m legally constrained from posting them publicly.</p>
+
+<h2 id="-closing">👋 Closing</h2>
+
+<p>Thanks for reading! May the peace of our Lord Jesus Christ be with you always.</p>
+:ET
