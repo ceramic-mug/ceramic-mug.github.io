@@ -21,7 +21,7 @@ When sorrow seems to know no end,
 And oppression ever hounds  
 The weak, the innocent, the poor;  
 And those who tend  
-To other's needs  
+To others' needs  
 Burn out and find their lives  
 Spread like tattered rugs  
 upon a boundless floor?  
