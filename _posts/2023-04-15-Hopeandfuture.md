@@ -28,10 +28,13 @@ Burn out and find their lives
 Spread like tattered rugs  
 upon a boundless floor?  
 What hope for children who  
-Know neither joy nor confidence,  
-Whose life is sapped by those who hold  
-Their attention rapt to tiny screens;  
-Hopeless it sometimes seems.  
+Have lost their joy and confidence,  
+Sapped into those tiny screens  
+By companies and faceless enemies?
+What hope for lonely souls alone  
+Treading this world of woe?  
+Hopeless indeed  
+it sometimes seems.  
 
 Through rumination I conclude  
 If hope depends on such as me  
