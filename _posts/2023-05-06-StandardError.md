@@ -27,7 +27,7 @@ $$
 This can be solved to arrive at the final form
 
 $$
-p = \frac{\hat p + z^2_{\alpha/2}/(2n)}{1 + z^2_{\alpha/2}/n} \pm z_{\alpha/2}\frac{\sqrt{\hat p(1 - \hat p)/n + z^2_{\alpha/2}/(4n^2)}}{1 + z^2_{\alpha/2}/n}
+p = \frac{\hat{p} + z^2_{\alpha/2}/(2n)}{1 + z^2_{\alpha/2}/n} \pm z_{\alpha/2}\frac{\sqrt{\hat p(1 - \hat p)/n + z^2_{\alpha/2}/(4n^2)}}{1 + z^2_{\alpha/2}/n}
 $$
 
 Where $z_{\alpha/2}$ is the critical value drawn from a two-tailed normal distribution:
