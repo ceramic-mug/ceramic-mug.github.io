@@ -6,7 +6,7 @@ tags: research
 
 I've always found it difficult to remember exactly how to calculate standard error and produce confidence intervals for a measure. This post is a quick reference for me and for others who are trying to produce confidence intervals for data metrics.
 
-The following is an adaptation of Ch. 7.2 from Devore's *Probability & Statistics for Engineering and the Sciences, 8th edition* (https://faculty.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineering_and_the_sciences.pdf)[(link)]
+The following is an adaptation of Ch. 7.2 from Devore's *Probability & Statistics for Engineering and the Sciences, 8th edition* [(link)](https://faculty.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineering_and_the_sciences.pdf)
 
 ## Confidence interval for population proportion
 
