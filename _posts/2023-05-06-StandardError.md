@@ -1,6 +1,6 @@
 ---
 title: 🧮 Standard error and confidence interval calculations
-layout: Post
+layout: post
 tags: research
 ---
 
