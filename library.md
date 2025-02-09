@@ -9,6 +9,20 @@ The Library is a curated collection of treasured elements in various domains. I 
 
 This section of the library contains books, poetry, excerpts, authors and the like.
 
+### Books
+
+#### Fiction
+
+- Don Quixote, by Miguel de Cervantes (1605/15, Spanish)
+- Les Miserables, by Victor Hugo (1862, French)
+- War and Peace, by Leo Tolstoy (1869, Russian)
+- Count of Monte Cristo, by Alexandre Dumas (1844, French)
+- Shogun, by James Clavell (1977, English)
+
+#### Nonfiction
+
+- Ramp Hollow: The Ordeal of Appalachia, by Stevel Stoll (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
+
 ## Go
 
 This section of the library contains places both digital and physical.
