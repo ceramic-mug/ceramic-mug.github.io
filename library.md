@@ -9,10 +9,6 @@ The Library is a curated collection of treasured elements in various domains. I 
 
 This section of the library contains books, poetry, excerpts, authors and the like.
 
-### Books
-
-#### Fiction
-
 - The Iliad, by Homer
 - The Odyssey, by Homer
 - Don Quixote, by Miguel de Cervantes (1605/15, Spanish)
@@ -20,9 +16,6 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - War and Peace, by Leo Tolstoy (1869, Russian)
 - Count of Monte Cristo, by Alexandre Dumas (1844, French)
 - Shogun, by James Clavell (1977, English)
-
-#### Nonfiction
-
 - Ramp Hollow: The Ordeal of Appalachia, by Stevel Stoll (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
 - History of China
 
@@ -40,6 +33,8 @@ This section of the library contains places both digital and physical.
 ## Look
 
 This section of the library contains visual art like paintings, photographs, and the like.
+
+- Netter's Anatomy
 
 ## Watch
 
