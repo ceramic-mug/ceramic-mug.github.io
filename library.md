@@ -13,6 +13,8 @@ This section of the library contains books, poetry, excerpts, authors and the li
 
 #### Fiction
 
+- The Iliad, by Homer
+- The Odyssey, by Homer
 - Don Quixote, by Miguel de Cervantes (1605/15, Spanish)
 - Les Miserables, by Victor Hugo (1862, French)
 - War and Peace, by Leo Tolstoy (1869, Russian)
@@ -22,10 +24,18 @@ This section of the library contains books, poetry, excerpts, authors and the li
 #### Nonfiction
 
 - Ramp Hollow: The Ordeal of Appalachia, by Stevel Stoll (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
+- History of China
 
 ## Go
 
 This section of the library contains places both digital and physical.
+
+- Dingess Tunnel, WV
+- Blackwater Falls, WV
+- Seneca Rocks, WV
+- Orcas Islands, WA
+- Varanasi, India
+- Ft. Liberte, Haiti
 
 ## Look
 
