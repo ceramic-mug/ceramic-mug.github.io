@@ -96,8 +96,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const files = soundFiles[type];
     if (!files || files.length === 0) return;
     const file = files[Math.floor(Math.random() * files.length)];
-    const audio = new Audio(`sounds/${type}/${file}`);
-    audio.play();
+    // Build and encode the URL to handle spaces in directory names
+    const url = encodeURI(`sounds/${type}/${file}`);
+    const audio = new Audio(url);
+    audio.play().catch(err => console.error('Audio play failed:', err));
   }
 
   function updateDisplay() {
