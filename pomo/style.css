@@ -89,3 +89,18 @@ body {
 #apply-settings:hover {
   background-color: #1976D2;
 }
+/* Tally mark styling */
+#session-count {
+  background: #333;
+  color: #fff;
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 1.5rem;
+  letter-spacing: 0.15rem;
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+#session-count .tally {
+  text-shadow: 0 0 2px #fff;
+}
