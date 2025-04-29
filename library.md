@@ -17,7 +17,7 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - Count of Monte Cristo, by Alexandre Dumas (1844, French)
 - Shogun, by James Clavell (1977, English)
 - Ramp Hollow: The Ordeal of Appalachia, by Stevel Stoll (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
-- History of China
+- History of China, by Keay
 
 ## Go
 
@@ -67,6 +67,19 @@ This section of the library contains games both digital and physical.
 
 This section of the library contains tools and equipment both digital and physical.
 
+### Clinical reference
+
+- [USPSTF Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/topic_search_results?topic_status=P) for preventative health
+- [ASCVD Risk Estimator](https://tools.acc.org/ascvd-risk-estimator-plus/#!/calculate/estimate/)
+- [UpToDate](https://www.uptodate.com/contents/search)
+
+### Research
+
+- [Geographic data science for Python](https://geographicdata.science/book/intro.html#)
+- [Patient reported outcomes](https://www.healthmeasures.net/explore-measurement-systems/promis)
+- [PhenX Toolkit: Sets of existing protocols, questionairres, etc. for human research](https://www.phenxtoolkit.org/)
+- [Prospero: Systematic review registry](https://www.crd.york.ac.uk/prospero/)
+
 ## Admire
 
 This section of the library contains people both historical and fictional.
@@ -74,3 +87,20 @@ This section of the library contains people both historical and fictional.
 ## Ponder
 
 This section of the library contains equations, techniques, theories, and other abstractions useful or beautiful.
+
+## Learn
+
+This section of the library contains textbooks or sources of information that have been useful in my acquision of and understanding of various domains of knowledge or skill.
+
+### Medical
+
+#### Clinical reference
+- The Pocket Notebook Series, including: Pocket Medicine, Pocket Pediatrics, Pocket Primary Care, Pocket Neurology, Pocket Psychiatry, Pocket Surgery
+- Comprehensive Handbook Obstetrics & Gynecology (Little red book)
+- Harrison's Internal Medicine
+- Pfenninger and Fowler's Procedures for Primary Care (recommended by Dr. Kathleen O'Hanlon)
+
+#### Medical education
+- Netter's Atlas of Human Anatomy (Classic Regional Approach)
+- Goljan's Rapid Review Pathology
+- USMLE First Aid for Step 1
