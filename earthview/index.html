@@ -9,7 +9,8 @@
     body, html { margin:0; padding:0; }
     #container { display: flex; height:100vh; width:100vw; }
     #map { flex: 1; }
-    #gallery { width: 200px; overflow-y: auto; background: #f4f4f4; }
+    #gallery { width: 200px; overflow-y: auto; background: #f4f4f4; transition: width 0.3s ease; }
+    #gallery.collapsed { width: 0; }
     .gallery-item { cursor: pointer; padding: 5px; border-bottom: 1px solid #ddd; text-align: center; }
     .gallery-item img { max-width: 100%; max-height: 100px; display: block; margin: 0 auto; }
     .gallery-item .label { font-size: 12px; margin-top: 3px; }
@@ -45,12 +46,46 @@
   </div>
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
-    // Initialize map
+    // Initialize map and base layers
     const map = L.map('map').setView([0, 0], 2);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
+    const satellite = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      { attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, AeroGRID, IGN, IGP, UPR-EGP, and the GIS User Community' }
+    );
+    // Layer switcher control
+    L.control.layers({ 'Street': osm, 'Satellite': satellite }).addTo(map);
+    // Prepare markers array and add UI controls
+    const markers = [];
+    // Custom toggle control for gallery and pins
+    const toggleControl = L.control({ position: 'topright' });
+    toggleControl.onAdd = function(map) {
+      const div = L.DomUtil.create('div', 'leaflet-bar');
+      div.style.background = 'white';
+      div.style.padding = '5px';
+      div.style.fontSize = '14px';
+      div.innerHTML = `
+        <button id="gallery-toggle" title="Toggle gallery" style="display:block; margin-bottom:5px;">☰</button>
+        <label style="display:block; font-size:12px; white-space:nowrap;">
+          <input type="checkbox" id="pins-toggle" checked> Show Pins
+        </label>`;
+      L.DomEvent.disableClickPropagation(div);
+      return div;
+    };
+    toggleControl.addTo(map);
+    // Attach toggle event handlers
+    // Pins toggle
+    document.getElementById('pins-toggle').addEventListener('change', e => {
+      if (e.target.checked) markers.forEach(m => m.addTo(map));
+      else markers.forEach(m => map.removeLayer(m));
+    });
+    // Gallery toggle
+    document.getElementById('gallery-toggle').addEventListener('click', () => {
+      document.getElementById('gallery').classList.toggle('collapsed');
+    });
 
     const gallery = document.getElementById('gallery');
 
@@ -58,7 +93,17 @@
       .then(response => response.json())
       .then(data => {
         data.forEach(item => {
-          const marker = L.marker([item.lat, item.lng]).addTo(map);
+          // Use the photo itself as a small marker icon
+          const imgIcon = L.icon({
+            iconUrl: item.url,
+            iconSize: [40, 40],
+            iconAnchor: [20, 20],
+            popupAnchor: [0, -20]
+          });
+          // Create marker but do not add yet (will be managed by toggle)
+          const marker = L.marker([item.lat, item.lng], { icon: imgIcon });
+          markers.push(marker);
+          marker.addTo(map);
           const locationName = item.region ? `${item.region}, ${item.country}` : item.country;
           const popupContent = `
             <div class="popup-content">
