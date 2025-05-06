@@ -26,8 +26,8 @@ This section of the library contains books, poetry, excerpts, authors and the li
 
 ### Authors, generally
 
-- Rabindranath Tagore
-- Arundhati Roy
+- ![Rabindranath Tagore](https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/2c9831dd1c0e4c77731bf9ff6fa301536d0a6cf2.jpeg)
+- ![Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
 
 ## Go
 
