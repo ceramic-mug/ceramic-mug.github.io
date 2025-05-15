@@ -11,8 +11,6 @@ This section of the library contains books, poetry, excerpts, authors and the li
 
 ### A brief list of books worth listing, to help me remember
 
-- The Iliad, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg)
-- The Odyssey, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg)
 - Don Quixote, by [Miguel de Cervantes](https://upload.wikimedia.org/wikipedia/commons/0/09/Cervantes_J%C3%A1uregui.jpg) (1605/15, Spanish)
 - Les Miserables, by [Victor Hugo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/1200px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg) (1862, French)
 - War and Peace, by [Leo Tolstoy](https://cdn.britannica.com/94/4694-050-CABE0BB0/Leo-Tolstoy.jpg) (1869, Russian)
@@ -23,11 +21,29 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - The God of Small Things, by [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
 - The Cambridge History of Medicine
 - Crime and Punishment, [Fyodor Dostoevsky](https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)
+- Hyperion (series), by [Dan Simmons](https://www.hachettebookgroup.com/wp-content/uploads/2022/08/Dan-Simmons-author-photo-2-9.jpg)
+- Three Body Problem (series), by [Liu Cixin](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2023/06/05/b148ed46-85a7-432b-b4a1-02ec217dabee_3efc3003.jpg)
+- Into the Bobiverse (series), by [Dennis Taylor](https://lh5.googleusercontent.com/proxy/ZyGTkX1Qcca8XGAFJLNPOme7iUbbo8Va3U_ieKmdTd1cO5FoeBGD5UlTQ2XznANMoQmK5Rj9JX1kZKeH3JJDAXUZV8IcpPwaGJaF9016P-Y4ChWR)
 
 ### Authors, generally
 
 - [Rabindranath Tagore](https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/2c9831dd1c0e4c77731bf9ff6fa301536d0a6cf2.jpeg)
 - [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
+
+### Poems
+
+- The Iliad, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg) (c. 8th century BC, Greece)
+- The Odyssey, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg) (c. 8th century BC, Greece)
+- The Pearl, by [Anonymous (Gawain Poet)](https://upload.wikimedia.org/wikipedia/commons/2/2e/Pearl_Poet.jpg) (late 14th century England)
+- Sir Orfeo, by [Anonymous](https://cdn.britannica.com/69/262069-050-E4189A06/Oil-painting-Orpheus-Leading-Eurydice-from-the-Underworld-1861-by-Jean-Baptiste-Camille-Corot-Found-in-the-collection-of-the-Museum-of-Fine-Arts-Houston.jpg) (late 13th or early 14th century, England)
+- Sir Gawain and the Green Night, by [Anonymous (Gawain Poet)](https://upload.wikimedia.org/wikipedia/commons/9/96/Sir_Gawain_first_page_670x990.jpg) (late 14th century, England)
+- Beowulf, by [Unknown](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/1024px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg) (c. 8th to 11th century, Scandanavia)
+
+### Books from childhood
+
+- Calvin and Hobbes, by [Bill Waterson](https://cdn.britannica.com/22/264322-050-1562F9B6/Bill-Watterson-studio-Calvin-Hobbes-1986-Chagrin-Falls-home-cartoonist.jpg)
+- The Tale of Despereaux, by [Kate DiCamillo](https://www.katedicamillostoriesconnectus.com/style/images/kate-crop.jpg)
+- Ender's Game, by [Orson Scott Card](https://upload.wikimedia.org/wikipedia/commons/6/6e/Orson_Scott_Card_at_BYU_Symposium_20080216_closeup.jpg)
 
 ## Go
 
