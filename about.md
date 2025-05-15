@@ -9,7 +9,7 @@ permalink: /about/
 </center>
 <br>
 
-My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is rooted on the life, death, and resurrection of Jesus, and aims to glorify Him and serve others. My mission is **to improve the health and well-being of vulnerable communities around the world through excellent medical practice, the development of free, universal, and dependable healthcare systems, and meaningful, interdisciplinary research.** 
+My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is rooted on the life, death, and resurrection of Jesus and aims to glorify Him and serve others. My mission is **to improve the health and well-being of vulnerable communities around the world through excellent medical practice, the development of free, universal, and dependable healthcare systems, and meaningful, interdisciplinary research.** 
 
 My passions include:
 
