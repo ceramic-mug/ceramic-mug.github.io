@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <center>
-<img src="/assets/mug3.png" alt="mugShot" width="100" align="center"/>
+<img src="/assets/josh_in_wilderness.jpeg" alt="Josh in Wilderness" width="100%" align="center"/>
 </center>
 <br>
 
