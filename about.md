@@ -9,7 +9,16 @@ permalink: /about/
 </center>
 <br>
 
-My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is rooted on the life, death, and resurrection of Jesus, and my passions include coffee, open source computing, outdoor adventure, good books, and learning.
+My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is rooted on the life, death, and resurrection of Jesus, and aims to glorify Him and serve others. My mission is **to improve the health and well-being of vulnerable communities around the world through excellent medical practice, the development of free, universal, and dependable healthcare systems, and meaningful, interdisciplinary research.** 
+
+My passions include:
+
+- History, particularly pre-modern
+- Literature
+- Exploration
+- Logic
+- Computer science, particularly low-level optimization, geoinformatics, computational modeling, and resource-limited solutions
+- Coffee
 
 The name of this blog comes from the New Testament of the Christian Bible, in 2 Corinthians chapter 4, specifically verse 6:
 
@@ -19,8 +28,8 @@ My blog title "Ceramic Mug" is a play on the verse's image "jars of clay," which
 
 "ceramic_mug" is also my Xbox-live username.
 
-I currently study [Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey.
+I currently study Medicine at Marshall University Joan C Edwards School of Medicine in Huntington, WV, and will pursue a primary care specialty, likely combined Internal Medicine, Pediatrics (Med-Peds) or Family Medicine. I previously studied [Civil and Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey for undergraduate. My intention is to marry the technical, systems-thinking of environmental engineering with medical and clinical knowledge to address grand challenges in health prevention and infrastructure at population scale.
 
-Formative authors in my life include Bill Watterson, C.S.Lewis, J.R.R. Tolkein, G.K.Chesterton, Deitrich Bonhoeffer, Glen Cook, and John Howard Yoder. I'm sure there are others that I'm not remembering right now. I'll add them to the list as they come to me.
+For books, places, games, music, and ideas that are beloved to me or that I've found formative at various stages in my life, please refer to my [library]({{ "./library" | relative_url }}).
 
-This blog is built using the open-source static site generator [Jekyll](https://jekyllrb.com/). Jekyll is super awesome and really easy to get up and running with [Github](https://github.com/) as a free blogging platform. I'm using the base theme [minima](https://github.com/jekyll/minima) with increasing customization as time goes on, but there is a whole host of other Jekyll themes that you could use for your own site.
+This blog is built using the open-source static site generator [Jekyll](https://jekyllrb.com/). Jekyll is easy to set up and publish through [Github Pages](https://pages.github.com/) as a free blogging platform. This site is built on the default base theme [minima](https://github.com/jekyll/minima) with some customization.
