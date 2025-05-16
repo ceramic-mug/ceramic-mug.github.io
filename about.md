@@ -13,6 +13,7 @@ My name is Joshua Eastman. I grew up in Huntington, West Virginia. My life is ro
 
 My passions include:
 
+- Local community, wherever the Lord leads
 - History, particularly pre-modern
 - Literature
 - Exploration, both urban and wilderness
@@ -23,8 +24,9 @@ My passions include:
 - Visual art (appreciating, not creating)
 - Computer science, particularly low-level optimization, geoinformatics, computational modeling, and resource-limited solutions
 - Coffee, particularly french press
+- Endurance running, sometimes
 
-I currently study Medicine at [Marshall University Joan C Edwards School of Medicine](https://jcesom.marshall.edu/) in Huntington, WV, and will pursue a primary care specialty, likely combined Internal Medicine, Pediatrics (Med-Peds) or Family Medicine. I previously studied [Civil and Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey for undergraduate. My intention is to marry the technical, systems-thinking of environmental engineering with medical and clinical knowledge to address grand challenges in health prevention and infrastructure at population scale. After residency, I intend to practice hospital and outpatient pediatrics and adult primary care in Huntington and in rural, under-resourced areas of WV, and hopefully find opportunities to partner with international health systems for short or long term. I hope to develop interdisciplinary, systems-based research investigating social, economic, infrastructural, political, and environmental drivers of human health, wellbeing, and disease in rural settings, including the development of my own lab, during my clinical career. I'm currently planning to pursue further education (PhD) in public health or a related field (after a period of clinical practice and research) to gain the necessary knowledge and skill to develop health prevention and intervention systems at state, national, and global levels for communities with greatest need.
+I currently study Medicine at [Marshall University Joan C Edwards School of Medicine](https://jcesom.marshall.edu/) in Huntington, WV, and will pursue a primary care specialty, likely combined Internal Medicine, Pediatrics (Med-Peds) or Family Medicine. I previously studied [Civil and Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey for undergraduate. My intention is to marry the technical, systems-thinking of environmental engineering with medical and clinical knowledge to address grand challenges in health prevention and infrastructure at population scale. After residency, I intend to practice hospital and outpatient pediatrics and adult primary care in Huntington and in rural, under-resourced areas of WV, and hopefully find opportunities to partner with international health systems for short or long term. I hope to develop interdisciplinary, systems-based research investigating social, economic, infrastructural, political, and environmental drivers of human health, wellbeing, and disease in rural settings, including the development of my own lab in partnership with an academic institution, during my clinical career.
 
 [Here's my CV]({{ "./assets/Eastman_CV_2025.pdf" | relative_url }}), if you're interested in learning more "professional" details.
 
