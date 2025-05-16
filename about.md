@@ -15,12 +15,20 @@ My passions include:
 
 - History, particularly pre-modern
 - Literature
-- Exploration
+- Exploration, both urban and wilderness
 - Logic
+- Mathematics
+- Scripture and theology
+- Comparative religion
+- Visual art (appreciating, not creating)
 - Computer science, particularly low-level optimization, geoinformatics, computational modeling, and resource-limited solutions
-- Coffee
+- Coffee, particularly french press
 
-I currently study Medicine at Marshall University Joan C Edwards School of Medicine in Huntington, WV, and will pursue a primary care specialty, likely combined Internal Medicine, Pediatrics (Med-Peds) or Family Medicine. I previously studied [Civil and Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey for undergraduate. My intention is to marry the technical, systems-thinking of environmental engineering with medical and clinical knowledge to address grand challenges in health prevention and infrastructure at population scale.
+I currently study Medicine at [Marshall University Joan C Edwards School of Medicine](https://jcesom.marshall.edu/) in Huntington, WV, and will pursue a primary care specialty, likely combined Internal Medicine, Pediatrics (Med-Peds) or Family Medicine. I previously studied [Civil and Environmental Engineering](https://cee.princeton.edu) at Princeton University in New Jersey for undergraduate. My intention is to marry the technical, systems-thinking of environmental engineering with medical and clinical knowledge to address grand challenges in health prevention and infrastructure at population scale. After residency, I intend to practice hospital and outpatient pediatrics and adult primary care in Huntington and in rural, under-resourced areas of WV, and hopefully find opportunities to partner with international health systems for short or long term. I hope to develop interdisciplinary, systems-based research investigating social, economic, infrastructural, political, and environmental drivers of human health, wellbeing, and disease in rural settings, including the development of my own lab, during my clinical career. I'm currently planning to pursue further education (PhD) in public health or a related field (after a period of clinical practice and research) to gain the necessary knowledge and skill to develop health prevention and intervention systems at state, national, and global levels for communities with greatest need.
+
+[Here's my CV]({{ "./assets/Eastman_CV_2025.pdf" | relative_url }}), if you're interested in learning more "professional" details.
+
+## Why CeramicMug?
 
 The name of this blog comes from the New Testament of the Christian Bible, in 2 Corinthians chapter 4, specifically verse 6:
 
