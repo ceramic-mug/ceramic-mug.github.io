@@ -30,7 +30,7 @@ I currently study Medicine at [Marshall University Joan C Edwards School of Medi
 
 [Here's my CV]({{ "./assets/Eastman_CV_2025.pdf" | relative_url }}), if you're interested in learning more "professional" details.
 
-## Why CeramicMug?
+## About this site
 
 The name of this blog comes from the New Testament of the Christian Bible, in 2 Corinthians chapter 4, specifically verse 6:
 
