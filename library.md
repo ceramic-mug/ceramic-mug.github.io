@@ -27,6 +27,18 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - Hyperion (series), by [Dan Simmons](https://www.hachettebookgroup.com/wp-content/uploads/2022/08/Dan-Simmons-author-photo-2-9.jpg)
 - Three Body Problem (series), by [Liu Cixin](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2023/06/05/b148ed46-85a7-432b-b4a1-02ec217dabee_3efc3003.jpg)
 - Into the Bobiverse (series), by [Dennis Taylor](https://lh5.googleusercontent.com/proxy/ZyGTkX1Qcca8XGAFJLNPOme7iUbbo8Va3U_ieKmdTd1cO5FoeBGD5UlTQ2XznANMoQmK5Rj9JX1kZKeH3JJDAXUZV8IcpPwaGJaF9016P-Y4ChWR)
+- The Expanse, by James S.A. Corey
+- Brave New World, by Aldous Huxley
+- 1984, by George Orwell
+- Slaughterhouse 5, by Kurt Vonnegut
+- The Martian, by Andy Weir
+- Ready Player One, by Ernest Cline
+
+### Of Fantasy
+
+- Mistborn (series)
+- Black Company (series)
+- Lord of the Rings (series)
 
 ### Of History
 
@@ -37,6 +49,13 @@ This section of the library contains books, poetry, excerpts, authors and the li
 ### Of Drama
 
 - The God of Small Things, by [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
+
+### Of Theology
+
+- The Great Divorce, by C.S. Lewis
+- The Abolition of Man, by C.S. Lewis
+- Orthodoxy, by G.K. Chesterton
+- On the Incarnation, by St. Athanasius
 
 ### Authors, generally
 
@@ -64,6 +83,7 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - Harry Potter (series) *You're a wizard, Harry!*
 - Percy Jackson (series) *Greek Mythology*
 - Eragon (series) *about dragons*
+- Chronicles of Narnia (series), by C.S. Lewis
 
 ## Go
 
