@@ -9,28 +9,41 @@ The Library is a curated collection of treasured elements in various domains. I 
 
 This section of the library contains books, poetry, excerpts, authors and the like.
 
-### A brief list of books worth listing, to help me remember
+### Of classics
 
 - Don Quixote, by [Miguel de Cervantes](https://upload.wikimedia.org/wikipedia/commons/0/09/Cervantes_J%C3%A1uregui.jpg) (1605/15, Spanish)
 - Les Miserables, by [Victor Hugo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/1200px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg) (1862, French)
 - War and Peace, by [Leo Tolstoy](https://cdn.britannica.com/94/4694-050-CABE0BB0/Leo-Tolstoy.jpg) (1869, Russian)
 - Count of Monte Cristo, by [Alexandre Dumas](https://upload.wikimedia.org/wikipedia/commons/c/c6/Nadar_-_Alexandre_Dumas_p%C3%A8re_%281802-1870%29_-_1983.198_-_Cleveland_Museum_of_Art.jpg) (1844, French)
-- Shogun, by [James Clavell](https://cdn.britannica.com/14/255414-050-4EC1222C/author-James-Clavell.jpg) (1977, English)
-- Ramp Hollow: The Ordeal of Appalachia, by [Steven Stoll](https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Stoll-Steven-by-Tom-Stoelker-1-1569154751.jpg) (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
-- History of China, by [Keay](https://media.cntraveler.com/photos/6345822956bb3cb685b1d987/master/w_1600%2Cc_limit/John-Keay-writer.jpg)
-- The God of Small Things, by [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
-- The Cambridge History of Medicine
 - Crime and Punishment, [Fyodor Dostoevsky](https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)
+
+### Of Historical Fiction
+
+- Shogun, by [James Clavell](https://cdn.britannica.com/14/255414-050-4EC1222C/author-James-Clavell.jpg) (1977, English) *Concerns 1600s Japan*
+- Conqueror (series), by [Conn Iggulden](https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/307371107_489883129817134_8770054063044472940_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=phtlD4n7BJQQ7kNvwFoGkqp&_nc_oc=AdmPm4tLllScrWWLm3i65fUWNZi6hZNPZkWLWvQuT-yLOCptBsXMEB0TS0d1CLBmnbI&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=9mBWsgGry6KyRUWNq_w_Vw&oh=00_AfK0rz8QgQcdZls1nHM66R9I0AKcwoPCm_CX2IElly1dcg&oe=682DD15B) *Concerns Genghis Khan*
+
+### Of Science Fiction
+
 - Hyperion (series), by [Dan Simmons](https://www.hachettebookgroup.com/wp-content/uploads/2022/08/Dan-Simmons-author-photo-2-9.jpg)
 - Three Body Problem (series), by [Liu Cixin](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2023/06/05/b148ed46-85a7-432b-b4a1-02ec217dabee_3efc3003.jpg)
 - Into the Bobiverse (series), by [Dennis Taylor](https://lh5.googleusercontent.com/proxy/ZyGTkX1Qcca8XGAFJLNPOme7iUbbo8Va3U_ieKmdTd1cO5FoeBGD5UlTQ2XznANMoQmK5Rj9JX1kZKeH3JJDAXUZV8IcpPwaGJaF9016P-Y4ChWR)
+
+### Of History
+
+- Ramp Hollow: The Ordeal of Appalachia, by [Steven Stoll](https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Stoll-Steven-by-Tom-Stoelker-1-1569154751.jpg) (2017). *Comprehensive economic and social-historical reckoning of Appalachia*
+- History of China, by [Keay](https://media.cntraveler.com/photos/6345822956bb3cb685b1d987/master/w_1600%2Cc_limit/John-Keay-writer.jpg)
+- The Cambridge History of Medicine
+
+### Of Drama
+
+- The God of Small Things, by [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
 
 ### Authors, generally
 
 - [Rabindranath Tagore](https://s3-us-east-2.amazonaws.com/cdn-test.poetryfoundation.org/content/images/2c9831dd1c0e4c77731bf9ff6fa301536d0a6cf2.jpeg)
 - [Arundhati Roy](https://compote.slate.com/images/7a1502d0-3c54-4796-9877-ae729c760156.jpg)
 
-### Poems
+### Of Poetry
 
 - The Iliad, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg) (c. 8th century BC, Greece)
 - The Odyssey, by [Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg) (c. 8th century BC, Greece)
@@ -38,12 +51,19 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - Sir Orfeo, by [Anonymous](https://cdn.britannica.com/69/262069-050-E4189A06/Oil-painting-Orpheus-Leading-Eurydice-from-the-Underworld-1861-by-Jean-Baptiste-Camille-Corot-Found-in-the-collection-of-the-Museum-of-Fine-Arts-Houston.jpg) (late 13th or early 14th century, England)
 - Sir Gawain and the Green Night, by [Anonymous (Gawain Poet)](https://upload.wikimedia.org/wikipedia/commons/9/96/Sir_Gawain_first_page_670x990.jpg) (late 14th century, England)
 - Beowulf, by [Unknown](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/1024px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg) (c. 8th to 11th century, Scandanavia)
+- Paradise Lost, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1667, England)
+- Paradise Regained, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1671, England)
+- Samson Antagonistes, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1671, England)
+- Lycidas, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1637, England)
 
-### Books from childhood
+### Of Books from childhood
 
 - Calvin and Hobbes, by [Bill Waterson](https://cdn.britannica.com/22/264322-050-1562F9B6/Bill-Watterson-studio-Calvin-Hobbes-1986-Chagrin-Falls-home-cartoonist.jpg)
 - The Tale of Despereaux, by [Kate DiCamillo](https://www.katedicamillostoriesconnectus.com/style/images/kate-crop.jpg)
-- Ender's Game, by [Orson Scott Card](https://upload.wikimedia.org/wikipedia/commons/6/6e/Orson_Scott_Card_at_BYU_Symposium_20080216_closeup.jpg)
+- Ender's Game (series), by [Orson Scott Card](https://upload.wikimedia.org/wikipedia/commons/6/6e/Orson_Scott_Card_at_BYU_Symposium_20080216_closeup.jpg)
+- Harry Potter (series) *You're a wizard, Harry!*
+- Percy Jackson (series) *Greek Mythology*
+- Eragon (series) *about dragons*
 
 ## Go
 
