@@ -73,7 +73,7 @@ This section of the library contains books, poetry, excerpts, authors and the li
 - Paradise Lost, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1667, England)
 - Paradise Regained, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1671, England)
 - Samson Antagonistes, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1671, England)
-- Lycidas, by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1637, England)
+- [Lycidas](https://milton.host.dartmouth.edu/reading_room/lycidas/text.shtml), by [Milton](https://cdn-test.poetryfoundation.org/cdn-cgi/image/w=2292,h=1528,q=80/content/images/55da3dc31084cb6308df607b686613fdf23dd459.jpeg) (1637, England)
 
 ### Of Books from childhood
 
