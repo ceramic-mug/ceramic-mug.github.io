@@ -134,7 +134,13 @@ This section of the library contains games both digital and physical.
 
 This section of the library contains tools and equipment both digital and physical.
 
-### Clinical reference
+### Helpfulf Medical Reference Table Screenshots
+
+- [Drugs for pain (Harrisons)]({{ '/doc_library/pain_drugs_Harrison.jpeg' | relative_url }})
+- [Pediatric developmental guidelines (Nelsons)]({{ '/doc_library/dev_timeline_Nelsons.png' | relative_url }})
+- [Adult preventative screening guidelines (Harrisons)]({{ '/doc_library/screening_guidelines_Harrison.jpeg' | relative_url }})
+
+### Clinical reference sites
 
 - [USPSTF Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/topic_search_results?topic_status=P) for preventative health
 - [ASCVD Risk Estimator](https://tools.acc.org/ascvd-risk-estimator-plus/#!/calculate/estimate/)
