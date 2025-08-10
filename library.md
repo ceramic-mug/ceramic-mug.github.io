@@ -127,10 +127,12 @@ This section of the library contains music, speeches, podcasts, and the like.
 - The Narrative, by Sho Baraka
 - Sacred Treasures: Choral Masterworks from Russia, by Sacred Treasures
 - Diam (La paix), by Ablaye Cissoko
+- x, by Ed Sheeran
 
 ## Songs I must not forget lest part of me dies
 
 - Rose of Sharon, by Mumford and Sons
+- Vagabond, by Caamp
 
 ## Play
 
