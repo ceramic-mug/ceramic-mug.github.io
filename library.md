@@ -111,6 +111,27 @@ This section of the library contains movies, TV shows, sporting events, and the 
 
 This section of the library contains music, speeches, podcasts, and the like.
 
+### Albums which are worlds unto themselves
+
+- Parachutes by Coldplay
+- Viva La Vida or Death and All His Friends, by Coldplay
+- Give us Rest Or A Requiem Mass in C (The Happiest Of All Keys), by David Crowder Band
+- SOUND & FURY, by Sturgill Simpson
+- The Joshua Tree, by U2
+- Mr. Morale & The Big Steppers, by Kendrick Lamar
+- No. 5 Colaborations Project, by Ed Sheeran
+- Tales Of America, by Ondara
+- Happiness, by Wilhelm
+- Tracy Chapman, by Tracy Chapman
+- A Meeting by the River, by Ry Cooder and Vishwa Mohan Bhatt
+- The Narrative, by Sho Baraka
+- Sacred Treasures: Choral Masterworks from Russia, by Sacred Treasures
+- Diam (La paix), by Ablaye Cissoko
+
+## Songs I must not forget lest part of me dies
+
+- Rose of Sharon, by Mumford and Sons
+
 ## Play
 
 This section of the library contains games both digital and physical.
