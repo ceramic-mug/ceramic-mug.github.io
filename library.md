@@ -190,6 +190,11 @@ This section of the library contains textbooks or sources of information that ha
 
 ### Medical
 
+#### Essential Reading
+- Doody's Core Titles
+- 50 Studies Every Doctor Should Know: The Key Studies That Form the Foundation of Evidence Based Medicine, Michael E. Hochman, 2014
+- Robbins, Cotran & Kumar Pathologic Basis of Disease
+
 #### Clinical reference
 - The Pocket Notebook Series, including: Pocket Medicine, Pocket Pediatrics, Pocket Primary Care, Pocket Neurology, Pocket Psychiatry, Pocket Surgery
 - Comprehensive Handbook Obstetrics & Gynecology (Little red book)
